@@ -528,7 +528,7 @@ class BashEnv(textworld.Environment):
         print(self.episode_count)
         self.count += 1
         count = 0
-        with open('inputwakatiwaf2.txt') as f:
+        with open('inputwakatiwaf.txt') as f:
              for line in f:
                  count += 1
                  if self.count == count:
